@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <h2>{{message}}</h2>
+    <h3>{{user}}</h3>
+    <h3>当前计数：{{counter}}</h3>
+    <button v-on:click="counter++">+</button>
+    <button v-on:click="decrement()">-</button>
+    <button @click="plus10()">*10</button>
+    <ul>
+        <li v-for="item in movies">{{item}}</li>
+    </ul>
+</div>
+
+<!--th，thymeleaf标签，运行时动态使用。-->
+<script th:src="vue.js" src="../static/vue.js"></script>
+<script>
+    // 数据和界面分离
+    const app = new Vue({
+        el: '#app',
+        data: {
+            message: 'Hello',
+            user: "small bee",
+            movies: ['Titanic', 'Avatar', '大话西游'],
+            counter: 0,
+        },
+        methods: {
+            increase() {
+                this.counter++
+            },
+            decrease() {
+                this.counter--
+            },
+            plus10() {
+                this.counter *= 10
+            }
+        }
+    })
+</script>
+<script>
+    // 直接修改数据，界面会跟着改：app.message = "Hi"
+    app._data.movies.push("西游记")
+</script>
+Run Forrest Run.
+</body>
+</html>
+
+<!--看到07-->
