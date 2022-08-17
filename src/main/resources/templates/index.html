@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
@@ -10,7 +10,7 @@
     <h3>{{user}}</h3>
     <h3>当前计数：{{counter}}</h3>
     <button v-on:click="counter++">+</button>
-    <button v-on:click="decrement()">-</button>
+    <button v-on:click="decrease()">-</button>
     <button @click="plus10()">*10</button>
     <ul>
         <li v-for="item in movies">{{item}}</li>
