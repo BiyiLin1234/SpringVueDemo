@@ -19,4 +19,9 @@ public class IndexController {
         System.out.println("hello");
         return "index";
     }
+
+    @RequestMapping("/vue_template")
+    public String vue_template() {
+        return "vue_template";
+    }
 }
