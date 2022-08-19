@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .redClass {
+            color: red;
+        }
+
+        .yellowClass {
+            color: yellow;
+        }
+
+        .defaultClass {
+            text-decoration: underline;
+        }
+
+        .bgcolor {
+            text-align: center;
+            width: fit-content;
+            height: fit-content;
+            padding-left: 15px;
+            padding-right: 15px;
+            color: #4ABE84;
+            background: #ffffff;
+            box-shadow: 0 2px 7px 0 rgba(85, 110, 97, 0.35);
+            border-radius: 7px;
+            border: 1px solid rgba(74, 190, 132, 1);
+        }
+    </style>
+</head>
+<body>
+<script th:src="vue.js" src="../static/vue.js"></script>
+<div id="app">
+    <h2 :class="class1">class1</h2>
+    <!--class可以有多个，固定用class指定，动态的用v-bind/: 指定-->
+    <h2 class="defaultClass" :class="{redClass: isRedClass, yellowClass: isYellowClass}">{{message}}</h2>
+    <h2 class="defaultClass" :class="getClasses()">{{message}}</h2>
+    <li v-for="(m, idx) in movies" v-on:click="changeSpan(idx);"
+        :class="{'bgcolor': spanIndex.indexOf(idx) > -1}">{{idx+1}}-{{m}}
+    </li>
+    <!--动态绑定style-->
+    <h2 :style="{fontSize: curFontSize + 'px', color: curColor}">{{message}}</h2>
+    <!--可以数组里嵌套-->
+    <h2 :style="[getStyles(), style2]">{{upperMessage}}</h2>
+</div>
+
+<script>
+    const app = new Vue({
+        el: '#app',
+        data: {
+            message: 'hello',
+            class1: 'redClass',
+            isRedClass: false,
+            isYellowClass: true,
+            movies: ['海尔兄弟', '火影忍者', '犬夜叉'],
+            spanIndex: [],
+            curColor: '#4ABE84',
+            curFontSize: 34, // px可以拼接
+            style2: {backgroundColor: 'yellow', width: "fit-content"}
+        },
+        /*计算属性*/
+        computed: {
+            upperMessage: function () {
+                return this.message.toUpperCase();
+            }
+        },
+        methods: {
+            getClasses: function () {
+                return {redClass: this.isRedClass, yellowClass: this.isYellowClass}
+            },
+            changeSpan(index) {
+                let arrIndex = this.spanIndex.indexOf(index);
+                if (arrIndex > -1) {
+                    this.spanIndex.splice(arrIndex, 1);
+                } else {
+                    this.spanIndex.push(index);
+                }
+            },
+            getStyles() {
+                return {fontSize: this.curFontSize + 'px', color: this.curColor}
+            }
+        }
+    })
+</script>
+
+</body>
+</html>

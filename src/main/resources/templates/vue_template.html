@@ -1,29 +1,51 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:v-bind="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <style>
+        [v-cloak] {
+            display: none;
+        }
+    </style>
 </head>
 <body>
 <script th:src="vue.js" src="../static/vue.js"></script>
-<div id="app">
+<!--解析之前，有v-cloak，解析之后没有v-cloak，配合style [v-cloak] none避免将模版展示出来。--> <!--之后其实用虚拟dom，不会用cloak-->
+<div id="app" v-cloak>
     {{message + ', one time more, ' + message + '.'}}
     <!--Render the element and component once only, and skip future updates.-->
     <h4 v-once>{{message}}</h4>
     <h2 v-html="url"></h2>
     <h2 v-html="url_xss_attack"></h2>
     <h2 v-text="url">to be replaced</h2>
+    <!--v-bind加入后，就会解析Dynamically bind one or more attributes, or a component prop to an expression.-->
+    <img v-bind:src="imgUrl" alt="">
+    <a v-bind:href="baiduHref">百度一下</a>
+    <a :href="baiduHref">百度一下（语法糖版本）</a>
+
 </div>
 
 <script>
-    const app = new Vue({
-        el: '#app',
-        data: {
-            message: 'hello',
-            url: '<a href="https://www.baidu.com">百度一下</a>',
-            url_xss_attack: '<img src="https://www.xxx.com" onerror="console.log(\'xss attack\')">'
-        }
-    })
+    setTimeout(function () {
+        const app = new Vue({
+            el: '#app',
+            data: {
+                message: 'hello',
+                url: '<a href="https://www.baidu.com">百度一下</a>',
+                url_xss_attack: '<img src="https://www.xxx.com" onerror="console.log(\'xss attack\')">',
+                imgUrl: 'https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png',
+                baiduHref: 'https://www.baidu.com',
+            }
+        })
+    }, 800)
+</script>
+
+<script>
+    // HTML DOM delay api
+    setTimeout(function () {
+        app.message = "hi"
+    }, 1000)
 </script>
 
 </body>

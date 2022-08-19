@@ -24,4 +24,9 @@ public class IndexController {
     public String vue_template() {
         return "vue_template";
     }
+
+    @RequestMapping("/vue_dynamic_bind")
+    public String vue_dynamic_bind() {
+        return "vue_dynamic_bind";
+    }
 }
