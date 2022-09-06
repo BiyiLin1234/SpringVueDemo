@@ -21,12 +21,22 @@ public class IndexController {
     }
 
     @RequestMapping("/vue_template")
-    public String vue_template() {
+    public String vueTemplate() {
         return "vue_template";
     }
 
     @RequestMapping("/vue_dynamic_bind")
-    public String vue_dynamic_bind() {
+    public String vueDynamicBind() {
         return "vue_dynamic_bind";
+    }
+
+    @RequestMapping("/compute_attribute")
+    public String vueComputeAttribute() {
+        return "day2/compute_attribute";
+    }
+
+    @RequestMapping("/")
+    public String defaultLearnEnglish() {
+        return "/learn_english";
     }
 }

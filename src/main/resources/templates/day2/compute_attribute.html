@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Computed Attribute</title>
+</head>
+<body>
+<h1>Computed Attribute</h1>
+<script th:src="vue.js" src="../static/vue.js"></script>
+<div id="app">
+    {{message}}
+    <!--called one times loading one page four place-->
+    <h3>{{fullNameSimpleType}}</h3>
+    <h3>{{fullNameSimpleType}}</h3>
+    <h3>{{fullNameSimpleType}}</h3>
+    <h3>{{fullNameSimpleType}}</h3>
+
+    <!--called four times loading one page four place-->
+    <!--属性改变会重新调用-->
+    <h3>{{getFullName()}}</h3>
+    <h3>{{getFullName()}}</h3>
+    <h3>{{getFullName()}}</h3>
+    <h3>{{getFullName()}}</h3>
+
+    <button>按钮1</button>
+    <button>按钮2</button>
+    <button>按钮3</button>
+    <button>按钮4</button>
+    <button>按钮5</button>
+</div>
+
+<script>
+    const app = new Vue({
+        el: '#app',
+        data: {
+            message: 'hello',
+            firstName: 'Kobe',
+            lastName: 'Bryant'
+        },
+        methods: {
+            getFullName: function() {
+                console.log("getFullName called")
+                return this.firstName + ' ' + this.lastName
+            }
+        },
+        // 计算属性只会调用一次。
+        computed: {
+            fullNameSimpleType: function () {
+                console.log("fullNameSimpleType called")
+                return this.firstName + ' ' + this.lastName
+            },
+            fullNameSetGetType: {
+                set: function (newValue) {
+                    console.log("fullNameSetGetType setter called." + "value:" + newValue)
+                    const names = newValue.split(' ')
+                    if (names.length !== 2) {
+                        console.log('name illegal')
+                        return
+                    }
+                    this.firstName = names[0]
+                    this.lastName = names[1]
+                },
+                get: function () {
+                    return this.firstName + ' ' + this.lastName
+                }
+            }
+        }
+    })
+</script>
+
+<script>
+    // var btns = document.getElementsByTagName("button")
+    // for (var i = 0; i < btns.length; i++) {
+    //     btns[i].addEventListener('click', function () {
+    //         console.log('第' + (i + 1) + '个按钮被点击') // 这里始终为5
+    //     })
+    // }
+
+    let btns = document.getElementsByTagName('button')
+    console.log(btns.length)
+    // 使用闭包解决(优先级高，同名也没问题)
+    for (var i = 0; i < btns.length; i++) {
+        (function (i) { // 这个i名称可以改，不改也行，优先级更高。
+                btns[i].addEventListener('click', function () {
+                    console.log('btn' + (i + 1) + 'clicked')
+                })
+            }
+        )(i)
+    }
+
+    // 使用es6解决
+    for (let i = 0; i < btns.length; i++) {
+        btns[i].addEventListener('click', function () {
+            console.log('第' + (i + 1) + '个按钮被点击')
+        })
+    }
+</script>
+</body>
+</html>
