@@ -6,6 +6,25 @@
 </head>
 <body>
 <h1>Computed Attribute</h1>
+<!--对象增强写法-->
+<script>
+    const gender = 'male'
+    const obj = {
+        gender, // 这个是ES6的写法。
+        name: 'James',
+        age: 15,
+        run: function () {
+            console.log('run called')
+        },
+        eat: function () {
+            console.log('eating')
+        },
+        es6Fun() {
+            console.log("es6Fun called")
+        }
+    }
+    console.log(obj)
+</script>
 <script th:src="vue.js" src="../static/vue.js"></script>
 <div id="app">
     {{message}}
@@ -38,7 +57,7 @@
             lastName: 'Bryant'
         },
         methods: {
-            getFullName: function() {
+            getFullName: function () {
                 console.log("getFullName called")
                 return this.firstName + ' ' + this.lastName
             }
