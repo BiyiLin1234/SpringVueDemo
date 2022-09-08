@@ -1,0 +1,62 @@
+{
+[
+(我有一个迷给你猜，内尔)
+(I've got a puzzle for you, Neil.)
+]
+[
+(riddle vs puzzle)
+(Riddle and puzzle are ofen used interchangeably. A riddle is a kind of puzzle, but riddles
+have a long history in literature and folklore'文学和民俗')
+(I'm as light as feather but no one can hold me for long--your breath.
+I'm so big I'm everywhere but so small you can't see me--germs.
+What has teeth but doesn't bite?--comb.
+Q：All of them are: xxx vs xxx, what's the difference. 两个词之间可互换使用怎么说。)
+]
+[
+(第一个意识到保持双手清洁能够预防疾病传播的人. 疾病传播怎么翻译，正常可以用spread，被动可以用哪个词呢)
+(The first person to realize that keeping hands clean can really help prevent diseases from being passed on)
+]
+[
+(产房)
+(maternity wards)
+]
+[
+(母亲拯救者)
+(The saviour of mothers.)
+]
+[
+(守护神)
+(patron赞助人，保护人 saint圣人。呼神护卫：expecto patronum)
+]
+[
+(自从我开始从事公共卫生事业以来，我一直努力理解疾病如何传播，以及预防它的最好的方法是什么)
+(And since the begining of my career working in the public health, I've been trying to understand how diseases get spread,
+and the best way of preventing it is.)
+]
+[
+(瓦尔的工作全是关于改善卫生的--即为了保持健康以及预防疾病而进行的工作，尤其是通过清洁。)
+(Val's work is all about improving hygiene-practises for maintaining health and preventing disease, especially through cleanliness.)
+]
+[
+(把信息传递出去，让人们理解卫生的重要性是很难得)
+(Getting the message out so people understand the importance of hygiene is diffcult.)
+]
+[
+(所以洗手已经成为了一个重要的全球性问题--或者说讨论的话题--尤其是在无法使用清洁的卫生设备和厕所的地方)
+(So washing hands has become an important global issue-or topic of discussion-especially in places without access to clean
+sanitation and toliets.)
+]
+[
+(Val也提到了如果你想人们听你的信息，更好的方式是以一种积极、科学的方式展示证据，而不是尖叫和咆哮-以一种强势甚至愤怒的方式来让人们相信你是正确的)
+(Val also mentions that if you want people to listen to your message, it's better to present the evidence in a positive, scientific way
+instead of screaming and shouting-speaking in a forceful or even angry way to convince people you're right.)
+]
+[
+(是的，如果你对人们尖叫咆哮，那么他们不会听你的话，他们只会认为你很奇怪)
+(Right, people don't listen to you scream shout at them-they just think you're strange.)
+]
+[
+(最近，洗手已经成为了一个顶级全球性问题--人们在思考和讨论的主要话题)
+(Recently, handwashing has become a top global issue-a subjuct or topic people are thinking and talking about.)
+]
+}
