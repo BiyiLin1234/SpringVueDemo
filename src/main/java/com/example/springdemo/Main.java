@@ -10,11 +10,14 @@ public class Main {
     static Random random = new Random(System.currentTimeMillis());
     static Scanner sc = new Scanner(System.in);
     private static final String EXIT = "EXIT";
+    private static final String[] dailyArticles = new String[]{
+            "./src/main/resources/notes/daily_articles/the_importance_of_handwashing.txt",
+            "./src/main/resources/notes/daily_articles/tips_for_parents_coping_with_kids_at_home.txt",
+    };
 
     public static void main(String[] args) throws IOException {
         // get current path: System.getProperty("user.dir")
-        String path =
-                "./src/main/resources/notes/the_importance_of_handwashing.txt";
+        String path = dailyArticles[1];
         File file = new File(path);
         InputStreamReader reader = new InputStreamReader(
                 new FileInputStream(file)

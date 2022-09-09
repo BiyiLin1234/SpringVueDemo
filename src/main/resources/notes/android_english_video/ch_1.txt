@@ -1,0 +1,29 @@
+Lib1 First Android APP |
+The purpose of this assignment: first taste of (Android application programming), using (Android Studio editor), using widgets
+and views to produce an 交互式图形应用程序(interactive graphical application). |
+Before working on this or any assignment, you will need to (set up the Android Studio IDE) on your computer. We suggest
+that you do this as early as possible, because some students get stuck and need time to 设置好IDE(get the IDE set up).｜
+Compared to a course like CS 106A/B/X, (the assignment specs) for this class will be much more 宽松(relaxed and vague).|
+The idea is to encourage you to use your creativity to build something that sounds interesting to you, rather thatn forcing you to produce exactly
+a certain app or outcome.|
+Some assignments may have some constrains or fixed aspects, but even these can be somewhat flexible if you have a neat idea that falls outside the
+guidelines.|
+1. Your app should be set up as an Android Studio project, so it can easily be opened/run/graded by others.|
+2. Your app should use at least 4 widgets/views on the screen. (Example: Three Buttons and a TextView)|
+3. Your app should use at least 2 different kinds of widgets. (Example: Button, TextView, EditText...)|
+4. Your app should respond to at least two different kinds of widgets. (Example: clicks on two different buttons)|
+5. Your app's design should change at least some aspect of the physical appearance and styling of some widgets. For example, make
+a text view have a larger or bold font, or make a button appear in a blue color.|
+6. We haven't talked very much about layout yet, so your app can have essentially any layout you want, so long as the vairous
+widgets are visible and can be intracted with.|
+Outside the constraints on the previous page, you can do anything you want.|
+If you are not feeling very inspired and want some suggestions of what to make, here are a few ideas.|
+Some of the ideas below are trickier than others or use material we haven't covered yet. So you'd have to do your own digging.|
+1. Random number guessing game: The computer thinks of a number from 1 to 1000. The user makes guesses and after each incorrect guess, the app hints to the
+user weather the right answer is higher or lower than their guess. The game ends when the player guesses the right number.|
+2. Tip calculator: User types in how much money they spent on their meal at a restaurant and chooses a percent to tip, and the
+app outputs how much money to leave as the tip.|
+3. Grade computer: Type in your homework and exam scores, and it estimates your grade in a class.|
+4. Rock-Pager-Scissors: The human and computer players each pick an option of Rock, Paper, or Scissors. The computer's choice
+is made randomly. Paper beats Rock; Scissors beat pater; and Rock beats Scissors. Keep track of the human player's score against the computer
+over time.|
