@@ -17,7 +17,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         // get current path: System.getProperty("user.dir")
-        String path = dailyArticles[1];
+        String path = dailyArticles[0];
         File file = new File(path);
         InputStreamReader reader = new InputStreamReader(
                 new FileInputStream(file)
