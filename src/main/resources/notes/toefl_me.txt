@@ -15,15 +15,48 @@ deposit v. 沉淀,存放,堆积 n. 存款,堆积物
 (These microplastics escape into waterways or drift along in the ocean and are eventually deposited in sediments.)
 statement n. 陈述,声明
 (Quite so, pray proceed with your statement. 的确如此，请继续陈述.)
-
+(On television his political statements are not always so nuanced. 他在电视节目里的zz评论并不总是如此意涵微妙。)
+(More than 150 women and girls gave impact statements during sentencing. 判刑期间，150多名女性提供了受害者控诉说明。)
+(A victim impact statement is a written or oral statement made as part of the judicial legal process. 受害者陈述报告)
+(Don't send any heads-up, no billing statements, no reminders. 不要发送任何警告，不要发送账单，不要发送提醒)
 establish v. 建立,确立,创办
+(set sth up on a firm or permanent basis: This business is established in 1860.)
+(We are now comfortably established in out new house.)
+(Established practices are difficult to change. 习惯很难改变。)
+(official for a country. 成为国教的. Anglicanism is the established religion in England. 英国圣公会是英国国教。)
 clay n. 黏土,泥土
-formation n. 形成,构成,编队
+(Friend, foe, stretched thick together, clay to clay. 敌我的尸体落在一起，用泥土一层又一层地覆盖。)
+(I can not make bricks without clay.)
+(And even biographers specialise in exposing feet of clay. 即使是传记作家，也开始专门曝光英雄的缺陷。clay雕塑象征英雄，脚象征缺陷。)
+(He shaped a pot out of the clay. 他用粘土做了一个罐子)
+formation n. 形成,构成,编队。形成层。编队。
+(She first saw the salt formations in October. 她第一次看到盐层是在10月份)
+(Even living things contribute to the formation of landscapes. 甚至连生物都会促进景观的形成。)
+(Huge rock formations, like Sugar Loaf in Rio, rose up all round us. 耸立在我们周围巨大的岩石群，很想里约热卢著名的糖面包山。)
+(Researchers expect the rare salt formation to be gone by February. 研究人员预计这种罕见的盐层在2月份消失)
+(Martian air and even occasional cloud formations are made up almost entirely of carbon dioxide. 火星的空气和偶尔的云层几乎完全由二氧化碳组成)
+(The road cuts through cornfields, deserts, mountains and unique red rock formations of the west. 它途中经过了玉米地，沙漠，山区，和西部独有的红石地貌)
 particle n. 微粒,极小量
+(The pages contain very small particles of silver. 书页中包含有非常小的银粒子。)
+(Next to me my two companions were getting tipsy on the fresh oxygen particles. 我的两个同伴在我傍边也尽情狂吸这新鲜的空气。)
+(Elements like oxygen and nitrogen, even countless dust particles, make up the air around us.)
 aspect n. 方面,外观
+(The disorder, called aphasia, can impair all aspects of communication.)
+(Well, we try to cover all aspects of study.)
+(It could be other aspects of lifestyle, stress, exercise, hygiene.)
 relate v. 叙述,使有联系,有关联
+(This capacity is closely related to optimism.)
+(Our nutrition is directly related to inflammation. 我们的营养和炎症直接相关.)
 iceberg n. 冰山,冷若冰霜的人
+(We missed an iceberg by 20 feet. 我们曾经只差20英尺就撞到一个冰山)
+(It is the tip of a substantial iceberg. 这只是冰山一角。)
 canal n. 运河,沟渠
+(vagina, also called birth canal, is part of the female reproductive system. 阴道也就是产道是女性生殖系统之一)
+(the alimentary canal. 消化道.)
+(It is unique because of its beautiful canals and bridges. 威尼斯因其漂亮的运河和桥梁而独具特色。)
+(The canals take water to the rice fields. 水渠把水送到稻田里。)
+(And big landscape-level features, like canals and roads, bridges, ditches and walls. 还有大型景观级特征，运河，道路，桥梁，沟渠和围墙等。)
+(Now, here, these are houses that are built along the canals. 在看这个，这是造在运河胖的住宅楼。)
 craft n. 工艺,手艺
 glacial adj. 冰川(期)的,非常冷的
 continent n. 大陆,洲
@@ -133,7 +166,7 @@ kinetoscope n. 活动电影放映机
 antarctica n. 南极洲
 arid adj. 干旱的,贫瘠的
 composer n. 作家,作曲家
-portrayv. 描绘
+portray v. 描绘
 glaciation n. 冻结成冰,冰河作用
 stencil n. 模版,蜡纸 v. 用蜡纸印刷
 magnetic adj. 磁的,有吸引力的
@@ -177,6 +210,7 @@ paleontologist n. 古生物学者
 apprentice n. 学徒 v. 当学徒
 rail n. 栏杆 v. 抱怨,责骂
 fossilization n. 化石作用
+(Here ideal conditions for fossilization created a hidden store of ice age evidence. 这里的环境及其适合化石的保存，存储着很多冰河时代的痕迹。)
 precise adj. 精确的,准确的
 ore n. 矿石
 hind adj. 后边的,后面的
