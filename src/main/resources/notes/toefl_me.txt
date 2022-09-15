@@ -91,7 +91,9 @@ settlement n. 解决,协议,居留地
 stratum n. 地层,阶层
 Mediterranean n. 地中海
 fungus n. 真菌,真菌类植物
-fuller n. 漂洗工
+fuller n. 漂洗工, 满
+(And lacking any fuller explanation from the government, many questions remain. 由于政府缺乏更全面的解释，此事仍存在诸多问题)
+(As if waves had been fullers, this craft was bleached like the skeleton of a stranded walrus. 波涛仿佛是一些漂布匠，把那条船给漂白得想一直给海浪冲到岸上来的海象骨架)
 hydrogen n. 氢
 basin n. 脸盆,盆地
 nitrogen n. 氮
@@ -114,6 +116,8 @@ coastal adj. 海岸的,沿海的
 trail n. 踪迹 v. 追踪
 tribe n. 部落,部族
 resemble v. 象,类似于
+(Well, children usually resemble their parents. 嗯孩子总是像父亲的.)
+(They resemble each other in shape but not in color.)
 Philadelphia n. 费城(美国宾西法尼亚州东南部港市)
 paleolithic adj. 旧石器时代的
 crow n. 乌鸦 v. 啼叫
@@ -135,6 +139,8 @@ alder n. [植]桤木
 explicit adj. 明确的,清晰的
 molecule n. 分子
 pullman n. 卧车,普式火车
+(I want to change this ticket to Pullman ticket. 这张票我要换成卧铺票。)
+(A pull man is a sleeping car and a coach is a sitting car. 卧铺是可睡觉的车厢，普通车是有作为的车厢。)
 mechanism n. 机械装置
 desertification n. 荒漠化,沙漠化
 expedition n. 远征,探险队
@@ -162,7 +168,7 @@ copper n. 铜,警察
 ridge n. 背脊,山脊
 perception n. 观念,洞察力,认识能力
 millennium n. 太平盛世,一千年
-kinetoscope n. 活动电影放映机
+kinetoscope n. 活动电影放映机,CinemaScope
 antarctica n. 南极洲
 arid adj. 干旱的,贫瘠的
 composer n. 作家,作曲家
