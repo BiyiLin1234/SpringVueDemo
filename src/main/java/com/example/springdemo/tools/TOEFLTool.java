@@ -8,7 +8,8 @@ public class TOEFLTool {
     private static Scanner scanner = new Scanner(System.in);
     private static final String TOEFL_KEY = "TOEFL";
     private static final String STOP_CMD = "stop";
-    private static final String ADD_CMD = "a"; // 添加到生词表
+    private static final String ADD_CMD_A = "a"; // 添加到生词表
+    private static final String ADD_CMD_1 = "1";
 
     private static final String path = "src/main/resources/notes/toefl.txt";
     private static final String path_me = "src/main/resources/notes/toefl_me.txt";
@@ -38,12 +39,12 @@ public class TOEFLTool {
         System.out.println("本次开始单词索引"  + idx);
         while (idx < words.size()) {
             System.out.println("==================================");
-            printWordAndDescribe(words.get(idx));
+            printWordAndDescribe(words.get(idx), idx);
             String next = scanner.nextLine();
             if (next.equals(STOP_CMD)) {
                 KVTools.getKVInstance().putStrKeyStrValue(TOEFL_KEY, String.valueOf(idx));
                 return;
-            } else if (next.equals(ADD_CMD)) {
+            } else if (next.equals(ADD_CMD_A) || next.equals(ADD_CMD_1)) {
                 saveMyWord(words.get(idx));
             }
             idx++;
@@ -51,7 +52,7 @@ public class TOEFLTool {
         }
     }
 
-    private static void printWordAndDescribe(String[] arr) {
+    private static void printWordAndDescribe(String[] arr, int idx) {
         System.out.println(arr[0]);
         scanner.nextLine();
         System.out.println(arr[1]);
@@ -59,10 +60,11 @@ public class TOEFLTool {
 
     private static void saveMyWord(String[] arr) {
         try {
-            BufferedWriter bw = new BufferedWriter(
-                    new FileWriter(path_me, true)
-            );
+            FileWriter fileWriter = new FileWriter(path_me, true);
+            BufferedWriter bw = new BufferedWriter(fileWriter);
             bw.append(arr[0]).append(" ").append(arr[1]).append("\n");
+            bw.flush();
+            fileWriter.close();
             bw.close();
             System.out.println("added!");
         } catch (Exception e) {
