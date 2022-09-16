@@ -58,13 +58,22 @@ canal n. 运河,沟渠
 (And big landscape-level features, like canals and roads, bridges, ditches and walls. 还有大型景观级特征，运河，道路，桥梁，沟渠和围墙等。)
 (Now, here, these are houses that are built along the canals. 在看这个，这是造在运河胖的住宅楼。)
 craft n. 工艺,手艺
+(In all likehood, you've just crafted an excellent paper. Congrats.)
+(The U.S. craft brewing market has grwon quickly. 美国手工精酿啤酒的市场发展十分迅速。craft brewing)
+(As for George, he had to learn the craft all on his own. 至于乔治，他是靠自己学习的这门手艺。)
+(They sell everything from clothes to Korean crafts. 从衣服到韩国手工艺品，这里会卖各种各种东西。)
 glacial adj. 冰川(期)的,非常冷的
+(The glacial epoch is over, so why is there ice everywhere. 被盗的一首诗《回答》：冰川纪过去了，为什么到处都是冰凌？)
+(You would think that because this is a glacial environment, sea ice would move in a galcial pace. 你会认为，这是冰川环境，海冰运动会非常缓慢)
+(Things are not changing, it's kind of glacial, and unfortunately, John Lewis didn't see it to its fruition. 事情没有变，有点像冰河冻结住了，不幸的是约翰-路易斯没有看到结果。)
 continent n. 大陆,洲
 substance n. 物质,实质,主旨
 evolve v. 演变,进化,发展
 merchant n. 商人
 figure n. 图形,外形 v. 计算,认为
 artisan n. 工匠,技工
+(an artisan in leatherwork. 皮匠)
+(The experienced artisan would pass on the tricks of the trade to the apprentice.)
 meteorite n. 陨石, 流星
 erosion n. 腐蚀,侵蚀
 motion n. 运动,动作
@@ -152,6 +161,8 @@ perspective n. 视角,观点,远景
 cetacean n. 鲸类动物
 destructive adj. 破坏(性)的
 plankton n. 浮游生物
+(And the plankton, too, are flourishing thanks to global warming. 而且，由于全球变暖也让这些浮游生物大量繁殖。)
+(Recent plankton blooms suggest a warmer Arctic will provide a boost to fisheries there, too. 而浮游生物的大量繁殖，预示着一个较温暖的北极也将推动此处的渔业的发展。)
 neanderthal adv. 穴居人的
 precede v. 领先(于),在之前,先于
 nile n. 尼罗河
@@ -183,7 +194,10 @@ shallow adj. 浅的
 surplus n. 剩余,过剩
 collision n. 碰撞,冲突
 isotope n. 同位素
+(The researchers demonstrated the corn plants' talent by exposing them to labeled isotopes of nitrogen. 研究人员让玉米接触带标记的同位素，一次来证明其才能。)
 parlor n. 客厅,会客室
+(And a private parlor, please. 要一个包间。)
+(I closed the door and went back to the parlor. 我关上门，回到客厅。)
 flourish v&n. 繁荣,茂盛
 bead n. 珠子,水珠
 turbine n. 涡轮
@@ -222,6 +236,7 @@ ore n. 矿石
 hind adj. 后边的,后面的
 venus n. 维纳斯,金星
 fern n. 蕨类植物
+(No, I haven't. It's not quite the same with 20 chaperones hiding behind every fern. 我可没忘，那不一样，一大堆女伴/行为监督人暗中窥伺呢. https://www.alamy.com/stock-photo/woman-hiding-behind-fern.html)
 aurora n. 黎明的女神,极光
 zebra n. 斑马
 skull n. 头脑,头骨
@@ -233,5 +248,9 @@ reservoir n. 水库,蓄水池
 pore n. 小孔
 potash n. 碳酸钾,苛性钾
 compact v. 使坚实 n. 契约
+(compact car. 紧凑型轿车。Economy cars are slightly smaller than their compact counterparts. 经济型汽车比紧凑型汽车更小。)
 skyscraper n. 摩天楼
 fluctuation n. 波动,起伏
+(Blood vessels can usually handle these fluctuations easily. 血管通常能很容易地处理这样地波动。)
+(Isn't there some way to smooth out these fluctuations? 难道没有办法消除这些波动吗？)
+(Since 1990 total employment has actually fallen, though that figue disguises some wild fluctuations. 自从1990年以来，就业总人数实际上下降了。尽管数字掩盖了一些剧烈波动。)
