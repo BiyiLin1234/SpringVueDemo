@@ -254,3 +254,15 @@ fluctuation n. 波动,起伏
 (Blood vessels can usually handle these fluctuations easily. 血管通常能很容易地处理这样地波动。)
 (Isn't there some way to smooth out these fluctuations? 难道没有办法消除这些波动吗？)
 (Since 1990 total employment has actually fallen, though that figue disguises some wild fluctuations. 自从1990年以来，就业总人数实际上下降了。尽管数字掩盖了一些剧烈波动。)
+homestay 寄宿家庭
+two-cents 就是指少少的兩分錢，但其實這個片語跟錢一點關係都沒有， two cents 除了真的拿來當兩分錢之外，在這裡則是當作「淺見」，當你表達完自己的意見時，你就可以說That's just my two cents 來表示謙虛。
+transmitter n. 发射器，传递器
+(Baldassarre and his team outfitted the birds with tiny GPS transitters and tracked their movements. 巴尔达萨勒和他的团队给这些鸟装上了微型GPS发射器，并追踪他们的活动。)
+(Ticks are the main transmitters of Lyme disese, a bacterial infection that can cause fevers, fatigue and rashes. 壁虱是莱姆病的主要传播者，这种细菌引起的疾病可以导致发热、乏力和皮疹。)
+mandatory adj. 强制性的 antonomy: mandatory vs optional, compulsory vs voluntary, obligation.
+(mandatory is the least formal and most common. compulsory is most ofen found in Compulsory Military Service and Compulsory Edution.)
+(Obligation is the least common and the most formal, rarely used in spoken language. Also used to describe something that is not required, but has become so common or typical that it now seems overused and not very meaningful or effective. "This action movie includes the obligation chase scene.")
+(Hassan said attendance is not mandatory. 哈桑标识出勤率不是强制性的。)
+(The unanimous decision means the 61-year-old faces a mandatory life sentence. 陪审团意见一致，认为这名61岁的毒贩要面临强制性终身监禁刑罚。)
+freeze v. 直播画面卡住了
+(Why does live-streaming keep freezing? How do I fix it? 为什么直播一直卡死？ 我如何解决它？)
