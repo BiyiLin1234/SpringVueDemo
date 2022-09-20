@@ -67,16 +67,32 @@ glacial adj. 冰川(期)的,非常冷的
 (You would think that because this is a glacial environment, sea ice would move in a galcial pace. 你会认为，这是冰川环境，海冰运动会非常缓慢)
 (Things are not changing, it's kind of glacial, and unfortunately, John Lewis didn't see it to its fruition. 事情没有变，有点像冰河冻结住了，不幸的是约翰-路易斯没有看到结果。)
 continent n. 大陆,洲
+(By 12,000 years ago, we were on all the continents except Antarctica. 到一千两百万年前，我们一觉散布在除了南极洲的所有大陆上了。)
+(Those views chime across continents and oceans. 这样的想法遍布全世界。)
 substance n. 物质,实质,主旨
+(Harry lifted the silvery substance into it with his wand. 哈里用魔杖把那些银色的物质收集到里面。)
+(When they are done, they excrete a slimy substance all over your pearly whites. 进食完毕后，他们会分泌出一种粘稠的物质，覆盖在你的牙齿上。)
 evolve v. 演变,进化,发展
+(I mean, the language is always evolving. 我想说，语言总是在进化。)
+(Our relations have to evolve with time. 我们的关系必须与时俱进。)
 merchant n. 商人
+(They were the victims a dishonest merchant. 他们是一个奸商的受害者。)
+(For thousands of years, it was traversed by merchants, pirates, and warriors. 数千年来，商人，海盗以及战士穿梭这里。)
 figure n. 图形,外形 v. 计算,认为
+(You've got this all figured out, don't you? 你都看透了，是吗？)
+(When it stung the figures, the lords cried out, revealing themselves. 当蚊子叮咬雕像时，领主叫出了声，露出了真面目。)
+(Pulling in a salary in the high six figures. 拿六位数的薪水。)
+(Most young women want a slim figure these days, especially here in Canada.)
 artisan n. 工匠,技工
-(an artisan in leatherwork. 皮匠)
+(On, that looks amazing, that's artisan stuff. 好漂亮啊，真是巧夺天工。)
+(an artisan in leather-work. 皮匠)
 (The experienced artisan would pass on the tricks of the trade to the apprentice.)
 meteorite n. 陨石, 流星
+(However, a significant number of moon quakes can't be attributed to meteorites. 当然相当数量的越切地震不能归因于陨石。)
 erosion n. 腐蚀,侵蚀
 motion n. 运动,动作
+(She was motion the first motions of nesting. 她正在做造窝的第一个动作。)
+(The motion of these particles is much more limited than the overall motion of the waves. 这些离职的运动会远比波的整体运动收到更多的限制。)
 composition n. 成分,作品,合成物
 whig n. 辉格党
 cretaceous n&a. 白垩纪(的)
@@ -90,9 +106,14 @@ irrigation n. 灌溉
 egyptian n&a. 埃及人(的)
 mar n. 污点,瑕疵 v. 破坏
 Dutch n. 荷兰人 adj. 荷兰的
-crater n. 弹坑
-aquifer n. 含水土层,蓄水层
+crater n. 弹坑 crater火山口，lava熔岩，magma岩浆，volcano火山
+(Fill some crater in your soul.)
+lava n. 岩浆（地面上的）
+(Scientists use the term magma for molten rock that is underground and lava for molten rock that breaks through the Earth's surface.)
 drift v&n. 漂流
+(I'm sorry, I got bored and drifted off. 抱歉，我觉得无聊，开小差了。)
+(Apple drift too far away from its roots. 苹果公司已经偏离它的初心了。)
+(A small inflatable drifting near the coast. 一个小的充气式正在漂流靠近海岸。)
 strike v&n. 罢工,袭击,打
 pheromone n. <生化>信息素
 isolate v. 使隔离,使孤立
@@ -166,7 +187,10 @@ plankton n. 浮游生物
 neanderthal adv. 穴居人的
 precede v. 领先(于),在之前,先于
 nile n. 尼罗河
+(The nile belongs to all and yet to none. 尼罗河属于大家，却又不属于任何人。)
 asteroid n. 小行星
+(Now NASA is planning to reboot WISE to find more asteroids. 现在NASA准备重启智慧号，让其发现更多的小行星。)
+(Most asteroids dwell between the orbits of Mars and Jupiter. 大部分小行星都位于火星和木星之间。)
 pottery n. 陶器
 projection n. 发射
 pastoralism n. 田园主义,牧歌体
@@ -233,24 +257,45 @@ fossilization n. 化石作用
 (Here ideal conditions for fossilization created a hidden store of ice age evidence. 这里的环境及其适合化石的保存，存储着很多冰河时代的痕迹。)
 precise adj. 精确的,准确的
 ore n. 矿石
-hind adj. 后边的,后面的
+hind adj. 后边的,后面的 situated at the back, 在后面的，成对的
+(a dog's hind legs 狗的后腿)
+(How to Train Your Dog to Walk on His Hind Legs. 如何训练你的狗用后腿走路。)
 venus n. 维纳斯,金星
 fern n. 蕨类植物
 (No, I haven't. It's not quite the same with 20 chaperones hiding behind every fern. 我可没忘，那不一样，一大堆女伴/行为监督人暗中窥伺呢. https://www.alamy.com/stock-photo/woman-hiding-behind-fern.html)
 aurora n. 黎明的女神,极光
 zebra n. 斑马
+(So the zebra stripes are really cool, and zebras are similar to horses. 斑马的条纹非常酷，而且斑马和马很像。)
 skull n. 头脑,头骨
 scandinavian n. 斯堪的纳维亚人[语]
 fracture v. (使)破碎,(使)破裂
+(These families have a veneer/superficial appearance/ of unity but, underneath, they tend to be fractured by lies and betrayals. 这些家庭表面上团结一致，但实际上往往被谎言和背叛弄得支离破碎。)
 dam n. 水坝,障碍
 reduction n. 减少,缩影
-reservoir n. 水库,蓄水池
+(Some of you have already learned how to do the reductions in English. 可能有些人以及学过在说英文的时候怎么吞音了。)
+(Definitely a reduction in the number of airstrike. 显然空袭的数量减少。)
+reservoir n. 水库,蓄水池 nature or artificial lake used for a source or store of water for a town, etc.
+aquifer n. 含水土层,蓄水层
+(Vast reservoirs will catch the monsoon rains to replenish the aquifers. 巨大的蓄水池可以收集季风雨水补充含水层。)
 pore n. 小孔
+(Watson and I will continue to pore over your case files. 华生和我会继续翻查你的卷宗。)
+(Our back skin are thicker, with small pores. 背部肌肤则较厚，孔洞较小。)
 potash n. 碳酸钾,苛性钾
+(When the first flower show, give the plants some potash fertilizer. 开出第一朵花的时候，给植株施上钾肥。)
 compact v. 使坚实 n. 契约
 (compact car. 紧凑型轿车。Economy cars are slightly smaller than their compact counterparts. 经济型汽车比紧凑型汽车更小。)
 skyscraper n. 摩天楼
 fluctuation n. 波动,起伏
 (Blood vessels can usually handle these fluctuations easily. 血管通常能很容易地处理这样地波动。)
 (Isn't there some way to smooth out these fluctuations? 难道没有办法消除这些波动吗？)
-(Since 1990 total employment has actually fallen, though that figue disguises some wild fluctuations. 自从1990年以来，就业总人数实际上下降了。尽管数字掩盖了一些剧烈波动。)
+(Since 1990 total employment has actually fallen, though that figure disguises some wild fluctuations. 自从1990年以来，就业总人数实际上下降了。尽管数字掩盖了一些剧烈波动。)
+procrastination n. 拖延症
+(Well, I do feel bad about my procrastination. 我真的对自己的拖延症感到难过。)
+(Two of the key components of the course are time management and overcoming procrastination. 课程的两个关键部分是时间管理和克服拖延症。)
+(How to deal with procrastination.)
+pottery
+desert
+humid adj. 潮湿的
+(Dry air allows more efficient evaporation than humid air, which is why you usually feel cooler in dry air — it has less moisture! Even in dry heat, prolonged exposure to direct sunlight in temperatures above 100 °F may cause heat-related medical issues. 干燥的空气比潮湿的空气更有效地蒸发，这就是为什么你在干燥的空气中通常会感觉凉爽——它的水分更少！ 即使在干热条件下，长时间暴露在 100 °F 以上的阳光直射下也可能导致与热相关的医疗问题。)
+unpunctual adj. 不守时的，不准时的
+stream host adj.
