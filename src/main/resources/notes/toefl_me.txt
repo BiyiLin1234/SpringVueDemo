@@ -289,6 +289,7 @@ fluctuation n. 波动,起伏
 (Blood vessels can usually handle these fluctuations easily. 血管通常能很容易地处理这样地波动。)
 (Isn't there some way to smooth out these fluctuations? 难道没有办法消除这些波动吗？)
 (Since 1990 total employment has actually fallen, though that figure disguises some wild fluctuations. 自从1990年以来，就业总人数实际上下降了。尽管数字掩盖了一些剧烈波动。)
+
 procrastination n. 拖延症
 (Well, I do feel bad about my procrastination. 我真的对自己的拖延症感到难过。)
 (Two of the key components of the course are time management and overcoming procrastination. 课程的两个关键部分是时间管理和克服拖延症。)
@@ -298,4 +299,192 @@ desert
 humid adj. 潮湿的
 (Dry air allows more efficient evaporation than humid air, which is why you usually feel cooler in dry air — it has less moisture! Even in dry heat, prolonged exposure to direct sunlight in temperatures above 100 °F may cause heat-related medical issues. 干燥的空气比潮湿的空气更有效地蒸发，这就是为什么你在干燥的空气中通常会感觉凉爽——它的水分更少！ 即使在干热条件下，长时间暴露在 100 °F 以上的阳光直射下也可能导致与热相关的医疗问题。)
 unpunctual adj. 不守时的，不准时的
-stream host adj.
+stream host adj. 主播
+homestay 寄宿家庭
+two-cents 就是指少少的兩分錢，但其實這個片語跟錢一點關係都沒有， two cents 除了真的拿來當兩分錢之外，在這裡則是當作「淺見」，當你表達完自己的意見時，你就可以說That's just my two cents 來表示謙虛。
+transmitter n. 发射器，传递器
+(Baldassarre and his team outfitted the birds with tiny GPS transitters and tracked their movements. 巴尔达萨勒和他的团队给这些鸟装上了微型GPS发射器，并追踪他们的活动。)
+(Ticks are the main transmitters of Lyme disese, a bacterial infection that can cause fevers, fatigue and rashes. 壁虱是莱姆病的主要传播者，这种细菌引起的疾病可以导致发热、乏力和皮疹。)
+mandatory adj. 强制性的 antonomy: mandatory vs optional, compulsory vs voluntary, obligation.
+(mandatory is the least formal and most common. compulsory is most ofen found in Compulsory Military Service and Compulsory Edution.)
+(Obligation is the least common and the most formal, rarely used in spoken language. Also used to describe something that is not required, but has become so common or typical that it now seems overused and not very meaningful or effective. "This action movie includes the obligation chase scene.")
+(Hassan said attendance is not mandatory. 哈桑标识出勤率不是强制性的。)
+(The unanimous decision means the 61-year-old faces a mandatory life sentence. 陪审团意见一致，认为这名61岁的毒贩要面临强制性终身监禁刑罚。)
+freeze v. 直播画面卡住了
+(Why does live-streaming keep freezing? How do I fix it? 为什么直播一直卡死？ 我如何解决它？)
+fern n. 蕨类植物
+interpretation n. 解释,阐明
+canopy n. 天篷,遮篷
+cage n. 笼
+shale n. 页岩,泥板岩
+furniture n. 家具,设备
+attribute n. 属性,品质,特征
+warren n. 养兔场,大杂院
+resident n. 居民
+vent n. 出口 v. 排出,发泄
+elaborate adj. 详尽的,复杂的 v. 详述
+latitude n. 纬度,范围
+wagon n. 四轮马车,货车
+rite n. 仪式,典礼
+locust n. 蝗虫
+offspring n. 儿女,子孙
+Hawaii n. 夏威夷
+pigeon n. 鸽子
+devise v. 设计,发明
+interact v. 互相作用,互相影响
+gulf n. 海湾,深渊
+calcium n. 钙
+poetry n. 诗
+portrait n. 肖像,人像
+tile n. 瓦片,瓷砖
+neolithic adj. 新石器时代的
+spore n. 孢子
+strain n&v. 拉紧,紧张,劳累
+timber n. 木材,木料
+ecology n. 生态学
+runoff n. 径流量,流出
+watercolor n. 水彩颜料,水彩画(法)
+mantle n. 斗蓬 v. 披风,覆盖
+episode n. 一段情节
+crossbill n. 交喙鸟
+hominid n. 原始人类
+kittiwake n. 三趾鸥
+sanctuary n. 避难所
+theatrical adj. 戏剧性的
+gravel n. 砂砾(层)
+proton n. 质子
+commerce n. 商业
+fireplace n. 壁炉
+aluminum n. 铝
+invertebrate a&n. 无脊椎的,无骨气的人
+symbiotic adj. 共生的
+Tennessee n. 田纳西州
+engraving n. 雕刻术,雕版
+specimen n. 范例,标本,样品
+ray n. 光线,射线
+nouveau adj. 新近到达的,最近产生的
+gland n. 腺
+glaze v. 变呆滞 v. 上釉 n. 釉(料)
+martian n&a. 火星人(的)
+reliance n. 信任,信心,依靠
+mercantile adj. 贸易的,商业的
+cylinder n. 圆筒,圆柱体
+countercurrent n. 逆流,反向电流
+potter n. 陶工,制陶工人
+aesthetic adj. 美学的,审美的
+hemisphere n. 半球
+reclamation n. 开垦,改造
+grind v. 磨(碎),折磨
+incorporate v. 合并,组成公司
+aboriginal adj. 土著的,原来的
+engrave v. 雕刻,使铭记
+strait n. 地峡
+constitute v. 构成,组成,建立
+graham adj. 全麦(面粉)的
+turnpike n. 收费公路
+astronomer n. 天文学家
+Erie n. 伊利(人)
+Yucatan n. 尤卡坦半岛
+alkali n. 碱 adj. 碱性的
+enclose v. 放入封套,围绕
+furnace n. 炉子,熔炉
+reptile n. 爬虫动物
+pit n. 深坑,陷阱v窖藏,使凹下
+precipitation n. 仓促
+lewis n. [机] 吊楔,起重爪
+durable adj. 持久的,耐用的
+Ohio n. 俄亥俄州(美国州名)
+infantile adj. 幼稚的，幼儿的
+amnesia n. 健忘症
+contradict v. 同矛盾, 同抵触
+outline n. 大纲 v. 描画轮廓,略述
+crustal adj. 地壳的
+carbohydrate n. 碳水化合物,醣类
+quartz n. 石英
+bronze n. 青铜
+marsh n. 湿地,沼泽
+freight n. 货物 v. 运送
+hatch n. 孵化 vt孵出, 策划
+kiln n. 窑,炉
+indium n. [化]铟
+refine v. 精炼, 精制
+Pennsylvania n. 宾夕法尼亚州（美国州名）
+iridium n. [化]铱
+spray n. 喷雾 vt喷射
+enzyme n. [生化]酶
+silt n. 淤泥 v. (使)淤塞
+larva n. 幼虫
+exposition n. 展览会, 说明
+peasant n. 农夫
+fertilizer n. 肥料
+satire n. 讽刺(文学)
+Massachusetts n. 马萨诸塞(美国州名)
+barren adj. 不生育的,贫瘠的 n. 荒地
+deco n. 装饰派艺术
+ruminant n&a. 反刍动物(的), 沉思的
+stoneware n. 瓷器
+barb n. 鱼钩 v. 装倒钩于
+forage n. 草料
+nitinol n. [冶]镍钛诺(镍和钛的非磁性合金)
+facilitate v. 促进, 帮助
+egalitarian adj. 平等主义的
+plover n. 千鸟
+shelve v. 搁置
+warbler n. 鸣鸟
+twig n. 嫩枝
+clement adj. 仁慈的，温和的
+mammoth n. 猛犸,长毛象 adj. 庞大的
+tellurium n. 碲
+hopewell n. 霍普韦尔
+facility n. 设备,便利，能力
+fauna n. 动物群
+archaeopteryx n. 始祖鸟(古代生物)
+disclaimer n. 放弃, 弃权
+desirable adj. 值得拥有的,可取的
+scarce adj. 缺乏的,不足的,
+insulation n. 绝缘
+westward n. 西方a&ad西方的, 向西
+seep v. 渗出
+proterozoic n&a. 原生代(的)
+falcon n. 猎鹰
+orchid n. 兰花
+cement n. 水泥,接合剂 v接合,粘牢
+shade n. 荫,阴凉处vi渐变 ,遮蔽
+semiarid adj. 半干旱的
+strip v. 剥, 剥去
+kestrel n. (一种)鹰
+elevation n. 上升, 提高
+molt vi&n. 脱毛,换毛
+columbian adj. 美国的, 美洲的,哥伦布的
+crystalline adj. 水晶(般)的,透明的
+speculation n. 思索, 做投机买卖
+confine v. 限制 n. 界限
+calcite n. 方解石
+realm n. 领域
+orchestra n. 管弦乐队
+intermediate adj. 中间的 n媒介
+proponent n. 支持者，拥护者
+ichthyosaur n. 鱼龙
+niche n. 壁龛,合适的职务(环境、位置等)
+cavity n. 洞, 空穴
+primate n. 灵长类(动物)
+tribal adj. 部落的,种族的
+pterosaur n. 翼龙
+gallery n. 走廊,画廊
+harbor n. 海港
+tract n. 传单,小册子,大片(土地或森林)
+equatorial adj. (近)赤道的
+iodine n. 碘, 碘酒
+hypothalamus n. [解剖]视丘下部
+tablet n. 药片
+interplay n. 相互影响
+topi n. 遮阳帽,[动]转角牛羚
+ceremonial n. 仪式 adj. 正式的
+piston n. 活塞
+virtue n. 美德, 贞操
+roost v& n. 栖息鸟巢
+tropic n. 回归线,热带 adj. 热带的
+nestle v. 依偎,（舒适地）安顿
+tactic n. 策略, 战略
+contaminate v. 弄脏, 污染
+cap n. 帽子,盖 vt覆盖,胜过
