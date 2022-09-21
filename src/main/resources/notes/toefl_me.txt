@@ -289,7 +289,6 @@ fluctuation n. 波动,起伏
 (Blood vessels can usually handle these fluctuations easily. 血管通常能很容易地处理这样地波动。)
 (Isn't there some way to smooth out these fluctuations? 难道没有办法消除这些波动吗？)
 (Since 1990 total employment has actually fallen, though that figure disguises some wild fluctuations. 自从1990年以来，就业总人数实际上下降了。尽管数字掩盖了一些剧烈波动。)
-
 procrastination n. 拖延症
 (Well, I do feel bad about my procrastination. 我真的对自己的拖延症感到难过。)
 (Two of the key components of the course are time management and overcoming procrastination. 课程的两个关键部分是时间管理和克服拖延症。)
@@ -312,7 +311,6 @@ mandatory adj. 强制性的 antonomy: mandatory vs optional, compulsory vs volun
 (The unanimous decision means the 61-year-old faces a mandatory life sentence. 陪审团意见一致，认为这名61岁的毒贩要面临强制性终身监禁刑罚。)
 freeze v. 直播画面卡住了
 (Why does live-streaming keep freezing? How do I fix it? 为什么直播一直卡死？ 我如何解决它？)
-fern n. 蕨类植物
 interpretation n. 解释,阐明
 canopy n. 天篷,遮篷
 cage n. 笼
@@ -487,7 +485,16 @@ tropic n. 回归线,热带 adj. 热带的
 nestle v. 依偎,（舒适地）安顿
 tactic n. 策略, 战略
 contaminate v. 弄脏, 污染
-cap n. 帽子,盖 vt覆盖,胜过
+(The fingertips became by far the most bacterially contaminated.)
+cap n. 制服帽，帽子,盖 vt覆盖,胜过
+(pic url. https://www.oxfordlearnersdictionaries.com/definition/english/cap_1)
+(A polar ice cap or polar cap is a high-latitude region of a planet, dwarf planet, or natural satellite that is covered in ice. 极地冰盖或极地冰盖是被冰覆盖的行星、矮行星或天然卫星的高纬度区域。)
+(So, that cap off another show. 所以节目到这里结束。 cap off: finish or complete, as with some decisive action. He capped off the meeting with a radical proposal.)
+(Why don't you just put on the caps lock? 你为什么直接锁定大写？)
+canteen n. 食堂，Google's staff canteen
+(Inside Google and Apple's staff canteens - with luxury gourmet food to make your mouth water. 在 Google 和 Apple 的员工食堂内 - 豪华美食让您垂涎三尺。)
+pitaya n. 火龙果 dragon fruit is more commonly used.
+(A pitaya (/pɪˈtaɪ.ə/) or pitahaya (/ˌpɪtəˈhaɪ.ə/) is the fruit of several different cactus species indigenous to the Americas. （火龙果或火龙果是美洲土生土长的几种不同仙人掌物种的果实。)
 kohoutek n. [天]科胡特克彗星
 crappy adj. 蹩脚的
 alignment n. 结盟，校准
