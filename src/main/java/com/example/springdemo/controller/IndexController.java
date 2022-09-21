@@ -39,4 +39,9 @@ public class IndexController {
     public String defaultLearnEnglish() {
         return "/learn_english";
     }
+
+    @RequestMapping("/von")
+    public String von() {
+        return "day2/v-on的基本使用";
+    }
 }

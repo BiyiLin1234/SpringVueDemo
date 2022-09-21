@@ -488,3 +488,5 @@ nestle v. 依偎,（舒适地）安顿
 tactic n. 策略, 战略
 contaminate v. 弄脏, 污染
 cap n. 帽子,盖 vt覆盖,胜过
+kohoutek n. [天]科胡特克彗星
+
