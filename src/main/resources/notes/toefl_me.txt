@@ -489,4 +489,54 @@ tactic n. 策略, 战略
 contaminate v. 弄脏, 污染
 cap n. 帽子,盖 vt覆盖,胜过
 kohoutek n. [天]科胡特克彗星
-
+crappy adj. 蹩脚的
+alignment n. 结盟，校准
+gill n. 鳃,及耳[液量单位]
+feat n. 功绩，伟业
+agrarian adj. 有关土地的, 耕地的
+utility n. 效用,公用
+canoes n. 独木舟
+starling n. 欧掠鸟
+additive adj. 附加的 n. 添加剂
+deprive v. 剥夺,使丧失
+peripheral adj. 外围的,不重要的
+conquer v. 征服, 战胜
+psychodynamic adj. 精神动力的
+disperse v. 分散, 疏散
+relic n. 遗物, 废墟
+pile n. 一堆，一叠 v堆积
+gallium n. 镓
+pigment n. 天然色素,颜料
+biome n. (生态)生物群系
+mount v. 登上 n山,峰
+sodium n. [化] 钠
+Hispanic adj. 西班牙的
+instinct n. 本能
+convex adj. 凸出的
+magma n. 岩浆, 糊剂
+injury n. 伤害,侮辱
+swamp n. 沼泽,湿地
+cadmium n. [化]镉
+designate v. 指明,指定
+horticulture n. 园艺
+constitution n. 宪法,章程
+cone n. 圆锥体；
+dispersal n. 散布,传播,分散
+tectonic adj. 构造的, 建筑的
+firn n. 粒雪, 积雪
+nomadism n. 游牧,流浪
+selenium n. [化]硒
+ballet n. 芭蕾(舞)
+Bantu n. 班图人, 班图语
+presumably adv. 大概,可能,据推测
+metabolism n. 新陈代谢
+superorganism n. [生]超个体(指群居昆虫等的群体)
+criterion n. 标准
+linen n. 亚麻布（制品）
+Harlem n. (纽约的）黑人住宅区
+orleans n. 奥尔良[法国]
+foster v. 收养；培养，促进
+projector n. 放映机
+peepshow n. 西洋镜
+anemone n. [植]银莲花, [动]海葵
+handedness n. 用右手或左手的习惯
