@@ -547,3 +547,167 @@ projector n. 放映机
 peepshow n. 西洋镜
 anemone n. [植]银莲花, [动]海葵
 handedness n. 用右手或左手的习惯
+PlacementExam n. 分班测验
+(A placement exam or placement test is a test designed to evaluate a person's preexisting knowledge of a subject and thus determine the level most suitable for the person to begin coursework on that subject.)
+billfish n. 长嘴鱼,尖嘴鱼
+figurine n. 小雕像
+polygon n. [数]多角形,多边形
+depletion n. 损耗
+ammonia n. [化]氨, 氨水
+beringia n. 白令海和楚可奇海海域
+asphalt n. 沥青
+lizard n. [动]蜥蜴
+ornament n&vt. 装饰(品),美化
+equator n. 赤道
+advertiser n. 登广告者,广告客户
+persian n. 波斯人[语]
+neonate n. 初生婴儿
+caterpillar n. 毛虫
+zinc n. 锌
+Euphrates n. 幼发拉底河
+gypsum n. 石膏,
+shrine n. 圣地, 神龛
+bulb n. 鳞茎,球形物
+trillion num. 万亿
+frontality n. 正面描绘
+Tasmania n. 塔斯马尼亚岛, 塔斯马尼亚州(澳大利亚州名)
+burgess n. (英国)市民，镇民
+manganese n. n〈化〉锰
+igneous adj. (指岩石)火成的, 火的
+Zealand n. 西兰岛(丹麦最大的岛)
+gaseous adj. 气体的,气态的
+buck n. (一)美元；雄鹿(兔)
+metropolis n. 首都,大城市
+botanical adj. 植物(学)的
+lomas n. 洛马斯(阿根廷东部的一城镇)
+confederacy n. 联盟,邦联
+withstand v. 抵挡, 经受住
+immense adj. 极广大的, 无边的,
+raft n. 木排(筏),救生圈 v用筏子渡河
+offshore a&ad. 离岸的,近海的
+commission n. 委员会 vt委任,委托
+Illinois n. 伊利诺斯州(美国州名)
+alpine adj. 高山的, 阿尔卑斯山的
+spectator n. 观众(指比赛或表演)
+don n. 先生,阁下
+carpenter n. 木匠
+census n. 人口普查
+mathematician n. 数学家
+beam n. 梁, 桁条
+kerosene n. 煤油
+buffalo n. 美洲野牛
+cosmic adj. 宇宙的
+cenozoic n. 新生代,新生代之岩层 a新生界的
+chamber n. 室, 会议厅
+tomb n. 坟墓
+obstacle n. 障碍, 妨害物
+trolley n. 电车
+distort v. 歪曲, 扭曲,变形
+woodcut n. 木刻
+delta n. 三角州
+putrefy v. (使)化脓, (使)腐烂
+postulate v. 要求, 假定
+trip n. 旅行，旅游
+peculiar adj. 奇怪的, 特殊的, 独特的
+regiment n. (军队的)团；大量 vt严格地管制
+procedure n. 程序, 手续
+deplete v. 耗尽, 使衰竭
+Amsterdam n. 阿姆斯特丹(荷兰首都)
+abigail n. (贵妇人的贴身)使女
+argon n. [化]氩
+symptom n. 症状, 征兆
+render v. 使得,提供
+robin n. 知更鸟
+Marseille n. 马赛(法国港口城市)
+vigorous adj. 精力充沛的,有力的
+elliptical adj. 椭圆的,省略的
+hop n&v. 跳跃, 单脚跳
+seabed n. 海底, 海床
+angiosperm n. 被子植物
+inclination n. 倾斜, 弯曲
+bud n. 芽 vi发芽
+circadian adj. 昼夜节律的,生理节奏的
+moth n. 蛾, 蛀虫
+zoologist n. 动物学家
+flock n. 羊群 v. 聚集，成群
+Caledonian n&a. 古苏格兰人(的), 苏格兰人（的）
+fabric n. 结构, 织物, 构造
+advent n. 出现，到来
+chondrite n. 球粒状陨石
+embryo n. 胚胎
+allende n. 阿连德(在墨西哥, 西经 100o01' 北纬 25o20')
+metropolitan adj. 大城市的，大都会的
+loan n. 贷款 v. 借出，贷给
+hinterland n. 内地, 穷乡僻壤
+finch n. 雀类
+moss n. 苔, 藓
+Oregon n. 俄勒冈州(美国州名)
+steppe n. 特指西伯利亚一带没有树木的大草原
+noticeable adj. 显而易见的
+granite n. 花岗岩
+moderate adj. 中等的, 适度的
+territorial adj. 领土的
+chiefly adv. 首要,主要地
+champion n. 拥护者vt 拥护, 支持
+termite n. 白蚁
+analogy n. 类似, 类推
+reindeer n. 驯鹿
+oxide n. 氧化物
+slush n. 烂泥 v溅湿
+horn n. 触角 v. 强行介入
+phonograph n. 留声机, 电唱机
+Eurasia n. 欧亚大陆
+cobalt n. [化]钴
+wale n. 条痕
+peculiarity n. 特性, 怪癖
+fluke n. 侥幸，偶然的机会
+soluble adj. 可溶的, 可溶解的
+Oceania n. 大洋洲
+trample v. 践踏, 轻视
+locomotive n. 机车, 火车头
+saturn n. 土星
+groove n. 沟，槽
+chondrule n. 陨石球粒
+accessible adj. 可得到的,易接近的
+incubation n. 孵化, 熟虑
+journeyman n. 熟练工人
+excavation n. 挖掘, 发掘
+mutualism n. 互助论,互利共生
+capillary n&a. 毛细管；毛状的
+tentacle n. (动物)触角
+inscription n. 题字, 碑铭
+appalachian adj. 阿帕拉契山脉的
+overcast v. 遮盖,变暗 n. 覆盖, 阴天
+cheep n. 吱吱的叫声 v吱吱地叫
+pollinator n. 授花粉器
+descendant n. 子孙, 后裔
+putt v. 短打,把球轻轻打进洞
+metabolic adj. 新陈代谢的
+tar n. 焦油, 柏油
+expenditure n. 支出, 花费
+cohesive adj. 粘着的
+complement n. 补足物
+humid adj. 充满潮湿的, 湿润的
+moraine n. 冰碛
+jurassic adj. 侏罗纪的
+meadow n. 草地, 牧场
+analogous adj. 类似的
+cavendish n. (一种压成饼状的)板烟, 烟草饼
+council n. 委员会，理事会
+exogenous adj. 外生的,外界产生的
+ooze n. 软泥 v渗出
+propagate v. 繁(增)殖；传播endogenous adj. 内生的, 内成的
+horseshoe n. 马蹄铁
+adept adj. 熟练的, 老练的 n老手, 擅长者
+capsize v. (特指船)倾覆
+elicit v. 得出, 引出, 抽出, 引起
+rodent n. 啮齿类动物
+prose n. 散文
+seafarer n. 船员, 航海家
+impart v. 传授, 赋予, 告知
+repudiate v. 批判
+faunal adj. 动物区系的
+pry v. 探查
+karst n. 石灰岩地区常见的地形
+interstellar adj. 星际的
+scratch v& n. 抓，搔,划(痕)
