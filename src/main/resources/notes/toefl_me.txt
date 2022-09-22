@@ -97,14 +97,32 @@ composition n. 成分,作品,合成物
 whig n. 辉格党
 cretaceous n&a. 白垩纪(的)
 terrestrial adj. 陆地的
-introductory adj. 引导的,介绍的
+(Men live on the terrestrial parts of the earth. 人们居住在地球的陆地部分。)
+(And this will really help us understand how terrestrial planets are made. 这将真正帮助我们理解类地行星的形成过程。)
+introductory adj. 引导的,介绍的,序言的
+(An introductory chapter. 序篇)
+(So welcome to our introductory lecture on argumentation. 欢迎大家来听这次辩论的介绍。)
+(I want to just take a minute or two and say a couple of introductory remarks. 但现在，我还是想先花一两分钟时间，做一个简短的引言。)
 fort n. 堡垒,要塞
+(Tree Fort. 树堡)
+(There were isolated pockets of men in big underground forts. 士兵们)
 dioxide n. 二氧化物
+(Several companies already make materials that strip carbon dioxide from the air.)
 commercial adj. 商业的,贸易的
+(It kind of looks like a douche commercial. 就像那些傻逼广告。)
+(And I love that you have no commercials. 我最喜欢你没有广告。)
+(Nothing but a bunch of commercials. These days the amount of commercials is amazing. 没什么全是广告，最近广告的数量多得惊人。)
 helium n. 氦
 irrigation n. 灌溉
+(The biggest problem is lack of irrigation. 最大的问题是缺少灌溉。)
+(lack of vs shortage of. A shortage means literally, there was insufficient supply/availability. A lack means there were nont at all.)
+(Villagers rely on irrigation to grow maize, potatoes and pinach. 村名依靠灌溉设施种植玉米，土豆和菠菜。)
+(It is impossible to make plants grow in a desert without irrigation. 未经灌溉，植物在沙漠中不可能生长。)
 egyptian n&a. 埃及人(的)
-mar n. 污点,瑕疵 v. 破坏
+mar n. 污点,瑕疵 v. 破坏 MAR（March）三月
+(The country has marred by violence in recent days. 近几天来，这个国家饱受暴力冲突的摧残。)
+(Compaigning for the mid-terms has been marred by politicians routinely treating each other as rogues, fools or traitors. 政客们照例都将对方当做无赖，白痴和骗子，破坏了中期选举/中期选举因为政客们照常)
+(The ceremony was marred however by a gun man as the inauguration was taking palce. 但是，就职仪式在进行时被一名持枪男子破坏。)
 Dutch n. 荷兰人 adj. 荷兰的
 crater n. 弹坑 crater火山口，lava熔岩，magma岩浆，volcano火山
 (Fill some crater in your soul.)
@@ -115,18 +133,32 @@ drift v&n. 漂流
 (Apple drift too far away from its roots. 苹果公司已经偏离它的初心了。)
 (A small inflatable drifting near the coast. 一个小的充气式正在漂流靠近海岸。)
 strike v&n. 罢工,袭击,打
+(The clock strike eleven as she entered. 当她走进去的时候，大钟正好敲响了11点。)
+(That's Bartholomew's window up there where the moonshine strikes. 那被月光照着的就是巴索罗谬的窗户)
 pheromone n. <生化>信息素
-isolate v. 使隔离,使孤立
+(By definition, pheromones are only used to communicate within the same species. 按定义来说，信息素只能用于同种生物间的交流。)
 settlement n. 解决,协议,居留地
+(President Trump is urging Israel to hold back on building Jewish settlements. 特朗普总统督促以色列暂停建筑犹太人定居点。)
+(Reports said they came close to a settlement. 报道称他们快要达成和解。)
 stratum n. 地层,阶层
+(On the other hand, interests are not evenly shared by every stratum of society. 另一方面，在发达国家内部和发展中国家内部，社会各阶层的利益分享也不均衡。)
+(Through the open window we stared at the lower strata/复数/ of this southernmost ocean. 通过打开的玻璃，我们可以看到南冰洋的中下层。)
 Mediterranean n. 地中海
-fungus n. 真菌,真菌类植物
+(It concluded that the Mediterranean people in the study enjoyed some significant health advantages. 研究得出结论，地中海人具有一定显著的健康优势。)
+fungus n. 真菌,真菌类植物 plural form: fungi
+(But is climate change affecting these fungi. 但气候变化是否会影响蘑菇的生存呢？)
+(That monolaurin kills fungus, bacteria, parasites and viruses. 月桂酸甘油酯可以杀死霉菌，细菌，寄生虫已经病毒)
 fuller n. 漂洗工, 满
 (And lacking any fuller explanation from the government, many questions remain. 由于政府缺乏更全面的解释，此事仍存在诸多问题)
 (As if waves had been fullers, this craft was bleached like the skeleton of a stranded walrus. 波涛仿佛是一些漂布匠，把那条船给漂白得想一直给海浪冲到岸上来的海象骨架)
 hydrogen n. 氢
+(Two part hydrogen, one part oxygen, you'll get water every time. 两部分氢元素加一部分氧元素，你就会得到水。)
+(This is because hydrogen fuel cells cost more. 这是因为氢燃料的价格更高。)
 basin n. 脸盆,盆地
+(He caught sight of himself in the mirror over the basin. 他从洗手盆上的镜子里看到了自己)
+(The southern hemisphere got hammered by impacts long ago, leaving a huge basin there. 很久以前，其南半球收到了撞击的冲击，留下了一个很大的盆地。)
 nitrogen n. 氮
+(Lightning strikes can convert some nitrogen into a bioavailable form. 雷电能将部分氮气专为一种可用的生物形式。)
 fuel n. 燃料 v. 加燃料
 ritual n. 仪式,典礼
 village n. 村庄
@@ -312,10 +344,17 @@ mandatory adj. 强制性的 antonomy: mandatory vs optional, compulsory vs volun
 freeze v. 直播画面卡住了
 (Why does live-streaming keep freezing? How do I fix it? 为什么直播一直卡死？ 我如何解决它？)
 interpretation n. 解释,阐明
+(I think there are two possible interpretations of that phrase. 我认为对这个词有两种可能的理解方式。)
+(There is merit in this interpretation. 这种解释方式有可取之处。)
 canopy n. 天篷,遮篷
+(On our first experience, the smoke was so dense we couldn't see the canopy down below. 在我们的一次经历中，浓烟密布，我们看不到下面的树冠。)
+(They form a canopy that alleviates the impact of heavy rains and protects the soil from erosion. 它们形成遮蓬缓和大雨的冲击，并保护泥土免于流失。)
 cage n. 笼
+(Now they have had special cages made to protect them from these monsters. 现在他们有了特制的笼子，用来保护他们免受大鱼的侵袭。)
 shale n. 页岩,泥板岩
+(Once a shale well is drilled, there are only marginal savings from stopping production. 一旦页岩井开钻，停产只会带来微不足道的节省。)
 furniture n. 家具,设备
+(All the furniture has been disposed of. 所有家具都已经被处理掉了。)
 attribute n. 属性,品质,特征
 warren n. 养兔场,大杂院
 resident n. 居民
@@ -691,23 +730,79 @@ humid adj. 充满潮湿的, 湿润的
 moraine n. 冰碛
 jurassic adj. 侏罗纪的
 meadow n. 草地, 牧场
+(One bad winter we watched the river creep up the lower meadows. 有一年冬天，天气不好，我们眼看着河水浸没了地势较低的草场。)
+(The idea that housing crisis equals concreted meadows is pure lobby talk. "住房危机"等同于"混泥土草地"这个想法是纯粹的游说说辞。)
 analogous adj. 类似的
-cavendish n. (一种压成饼状的)板烟, 烟草饼
+(Such administrative overheads in a business are analogous to the cost of government in a nation. 一家企业的行政管理开支类似于一个国家的政府管理所用的开支。)
+(But these are not analogous to what happens when man ages. 不过，这些衰老的情况不同人并不相识。)
+(These joint undertakings are like, well you might think of them analogous to playing chamber music with a string quartet. 你可以把这种联合协作想像成一种音乐四重奏。)
+cavendish n. (一种压成饼状的)板烟, 烟草饼 (姓氏)卡文迪许
 council n. 委员会，理事会
-exogenous adj. 外生的,外界产生的
-ooze n. 软泥 v渗出
+(Have you talked to the community council? 你们跟社区议会谈过了吗？)
+(The council will review the report next month. 该理事会将于下月审查这份报告。)
+(First up, news in United Nation security council. 首先是在联合国安理会的新闻。)
+exogenous adj. 外生的,外界产生的,外源性的
+(In an economic model, an exogenous variable is one whose measure is determined outside the model and is imposed on the model, and an exogenous change is a change in an exogenous variable. 在经济模型中，外生变量是指在模型之外确定其度量，并施加在模型上的变量，外生变化是外生变量的变化。)
+ooze n. 软泥 v. 渗出 thick liquids come/flow out slowly. 浓稠的液体慢慢流出
+(Black oil was ozzing out of the engine. 发动机渗出了黑油。)
+(Blood was still ozzing from the wound. 伤口仍在渗血。)
+(Then, as he stepped forward, his foot sank into the ooze. 接着当他正向前行进时，突然一脚陷入烂泥中。)
 propagate v. 繁(增)殖；传播endogenous adj. 内生的, 内成的
-horseshoe n. 马蹄铁
+(These colors are then propagated to the entirety of the animation. 这些颜色然后就传播到整个动画之中。）
+(In general, low frequencies propagate farther than high ones. 通常低频率比高频率传播的更远。)
+horseshoe n. 马蹄铁，马蹄三明治
+(horseshoe bats. 菊头蝙蝠)
+(The horse is now wearing golden hoseshoes. 那匹马现在穿着金色马蹄铁。)
 adept adj. 熟练的, 老练的 n老手, 擅长者
+(He's an adept in carpentry. 他是木工行家。)
+(I doubt not that you are an adept in the science yourself, Mr. Darcy. 我相信你对此道也是驾轻就熟吧，达西先生。)
+(He was coordinated and agile, and he became adept in sports. 由于协调性好，动作敏捷，他很快就成了运动高手。)
+(For the technology adept, DDoS software is available free. 对于那些技术娴熟者来说，DDoS软件俯拾皆是。)
 capsize v. (特指船)倾覆
+(The boat capsized in heavy seas. 船在大海中倾覆了。)
 elicit v. 得出, 引出, 抽出, 引起
-rodent n. 啮齿类动物
+(At last we've elicited the truth from him. 我们终于从他那里探得真相。)
+(Elicit a reply. 诱出答案。)
+rodent n. 啮齿类动物（松鼠，海狸）
+(Every farm needs cats because otherwise, they can overrun by rodents. 每个牧场都需要猫，否则它们就会被啮齿类动物侵占。)
 prose n. 散文
-seafarer n. 船员, 航海家
+(Meaningless prose is not only the perserve of artificial intelligence. 毫无意义的散文不仅是人工智能的专利。)
+(Mr Toibin writes in muscular prose and has a keen eye for detail. 托宾散文笔道刚劲。拥有对细节敏锐的洞察能力。）
+seafarer n. 船员, 航海家 a man who serves as a sailor.
 impart v. 传授, 赋予, 告知
-repudiate v. 批判
+(Her presence imparted an air of elegance(to ceremony). 他一出席增添了高雅的气氛。)
+(I have no news to impart to you. 我没消息可告诉你。)
+(I will impart to you a love of classical music. 我会传递给你们对古典音乐的热爱。)
+repudiate v. 批判，断绝来往，回绝，不服从，拒不遵守
+(refuse to have anymore to do with sb.)
+(He repudiated the court's decision to offer bail. 他不接受法庭的保释裁决。)
 faunal adj. 动物区系的
-pry v. 探查
+(fanual and floral evolution. 动植物群进化)
+(faunal region. 动物区. faunal kingdom 动物界)
+pry v. 撬开；探查 inquire too curiously or rudely about other people's private affairs 打听，刺探他人的私事。
+(Safe from prying eyes. 闲人无从窥探。)
+(I don't want them prying into my affairs. 我不想他们窥探我的私事。)
+(Looks like someone tried to pry this drawer open. 看样子有人想撬开这抽屉。)
+(I don't think we should pry. It feels rather...disrespectful. 不应该随便窥探吧，感觉太...失礼了。)
 karst n. 石灰岩地区常见的地形
-interstellar adj. 星际的
+(But today it draws all sorts of travelers to enjoy its beautiful scenery and karst mountains. 而如今，那里的美景和岩溶山吸引了各式各样的游客前来游玩。)
+(karst cave 岩溶洞，karst landform 溶岩地貌，喀斯特地貌；)
+interstellar adj. 星际的 between the stars
+(interstellar communication. 星际通讯)
+(Kiara and I met on that interstellar dating service. 琦亚和我是在星际约会网上认识的。)
 scratch v& n. 抓，搔,划(痕)
+(What this is doing is merely telling us that we are scratching the surface. 这些都是在告诉我们我们了解的实在很浅。)
+(Indeed, we don't want the listeners to be scratching their heads. 确实，我们不想让听众挠头。)
+(But I wouldn't dare say I have even scratched the surface yet. 但我不敢说我已经触及了表面。)
+laid-back adj. 悠闲地
+(Most of the British people are polite and laid back. 大多数英国人彬彬有礼，悠闲自在。)
+donkey-work n. the boring or laborious part of a job; drudgery.
+(You've got too much gob and brass for the donkey work. 你付出了太多的劳力。)
+intimidation n. 恐吓
+(I know that new situations can be intimidating. 我知道人在新环境里会感到生畏不安。)
+(Are you trying to intimidate a witness? 你是在恐吓证人吗？)
+asylum n. 庇护,收容所,精神病院
+(He's been granted political asylum in UK.)
+(Ask for/Be granted political asylum.)
+(So welcome to the insane asylum from the hell. 所以欢迎来到地狱疯人院。)
+(And ending in the asylum contries, helping them integrate. 最终到了庇护国，并且帮助他们融入社会。)
