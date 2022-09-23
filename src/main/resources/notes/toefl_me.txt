@@ -200,7 +200,8 @@ parasite n. 寄生虫
 alder n. [植]桤木
 explicit adj. 明确的,清晰的
 molecule n. 分子
-pullman n. 卧车,普式火车
+(So it should render the molecule non-toxic at that point. 这样一来，应该可使分子脱离毒性。)
+pullman n. 卧车,普式火车, 豪华型列车车厢（无隔间有桌椅）。
 (I want to change this ticket to Pullman ticket. 这张票我要换成卧铺票。)
 (A pull man is a sleeping car and a coach is a sitting car. 卧铺是可睡觉的车厢，普通车是有作为的车厢。)
 mechanism n. 机械装置
@@ -806,3 +807,4 @@ asylum n. 庇护,收容所,精神病院
 (Ask for/Be granted political asylum.)
 (So welcome to the insane asylum from the hell. 所以欢迎来到地狱疯人院。)
 (And ending in the asylum contries, helping them integrate. 最终到了庇护国，并且帮助他们融入社会。)
+lenient adj. 宽容的
