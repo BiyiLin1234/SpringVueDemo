@@ -570,13 +570,17 @@ constitution n. 宪法,章程
 cone n. 圆锥体；
 dispersal n. 散布,传播,分散
 tectonic adj. 构造的, 建筑的
-firn n. 粒雪, 积雪
-nomadism n. 游牧,流浪
+firn n. 粒雪, 积雪 寒冷的地区，终年积雪，雪层变厚成冰。
+nomadism n. 游牧,流浪 nomadic 游牧民族
+(Nomadic tribes wander these deserts. 游牧部落在这些荒漠上游牧。)
+(Few continue the old nomadic way of life. 很少有人保持着古老的游牧民族的生活方式。)
 selenium n. [化]硒
 ballet n. 芭蕾(舞)
 Bantu n. 班图人, 班图语
 presumably adv. 大概,可能,据推测
+(Presumably the bad weather has delayed the flight. 大概恶劣的天气使飞机误点了。)
 metabolism n. 新陈代谢
+(Because of their low nutrition diets and sluggish metabolism, koalas must conserve their energy. 由于低营养的食物和新陈代谢缓慢，考拉必须保存它们的能量。)
 superorganism n. [生]超个体(指群居昆虫等的群体)
 criterion n. 标准
 linen n. 亚麻布（制品）
@@ -729,7 +733,9 @@ cohesive adj. 粘着的
 complement n. 补足物
 humid adj. 充满潮湿的, 湿润的
 moraine n. 冰碛
+
 jurassic adj. 侏罗纪的
+(Jurassic Park. 侏罗纪公园)
 meadow n. 草地, 牧场
 (One bad winter we watched the river creep up the lower meadows. 有一年冬天，天气不好，我们眼看着河水浸没了地势较低的草场。)
 (The idea that housing crisis equals concreted meadows is pure lobby talk. "住房危机"等同于"混泥土草地"这个想法是纯粹的游说说辞。)
