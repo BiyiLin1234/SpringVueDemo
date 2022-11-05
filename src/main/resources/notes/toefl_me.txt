@@ -104,138 +104,158 @@
 35. terrestrial adj. 陆地的  [təˈrestriəl]
 (Men live on the terrestrial parts of the earth. 人们居住在地球的陆地部分。)
 (And this will really help us understand how terrestrial planets are made. 这将真正帮助我们理解类地行星的形成过程。)
-introductory adj. 引导的,介绍的,序言的
+36. introductory adj. 引导的,介绍的,序言的
 (An introductory chapter. 序篇)
 (So welcome to our introductory lecture on argumentation. 欢迎大家来听这次辩论的介绍。)
 (I want to just take a minute or two and say a couple of introductory remarks. 但现在，我还是想先花一两分钟时间，做一个简短的引言。)
-fort n. 堡垒,要塞
+(Preface vs Introduction. The easiest way to understand the difference between the introduction and the preface is: the preface introduces the book itself, while the introduction introduces the content of the book. The preface is therefore outside the book’s contents, while the introduction forms part of the book’s contents.)
+37. fort n. 堡垒,要塞
 (Tree Fort. 树堡)
-(There were isolated pockets of men in big underground forts. 士兵们)
-dioxide n. 二氧化物
-(Several companies already make materials that strip carbon dioxide from the air.)
-commercial adj. 商业的,贸易的
-(It kind of looks like a douche commercial. 就像那些傻逼广告。)
-(And I love that you have no commercials. 我最喜欢你没有广告。)
+(You did it Rob, said Genie, you held the fort that time. 你做到了，罗布，吉妮说，那次你守住了要塞)
+38. dioxide n. 二氧化物 /daɪˈɑːksaɪd/
+(Several companies already make materials that strip carbon dioxide from the air. 几家公司已经制造了从空气中去除二氧化碳的材料。)
+39. commercial adj. 商业的,贸易的
+(It kind of looks like a douche commercial. 就像那些脑残广告。)
+(They're looking to make space travel commercial. 他们希望使太空旅行商业化。)
+(Commercial jet. 商用飞机.)
 (Nothing but a bunch of commercials. These days the amount of commercials is amazing. 没什么全是广告，最近广告的数量多得惊人。)
-helium n. 氦
-irrigation n. 灌溉
+40. helium n. 氦
+41. irrigation n. 灌溉
 (The biggest problem is lack of irrigation. 最大的问题是缺少灌溉。)
 (lack of vs shortage of. A shortage means literally, there was insufficient supply/availability. A lack means there were nont at all.)
 (Villagers rely on irrigation to grow maize, potatoes and pinach. 村名依靠灌溉设施种植玉米，土豆和菠菜。)
 (It is impossible to make plants grow in a desert without irrigation. 未经灌溉，植物在沙漠中不可能生长。)
-egyptian n&a. 埃及人(的)
-mar n. 污点,瑕疵 v. 破坏 MAR（March）三月
-(The country has marred by violence in recent days. 近几天来，这个国家饱受暴力冲突的摧残。)
+42. egyptian n&a. 埃及人(的)
+43. mar n. 污点,瑕疵 v. 破坏 MAR（March）三月
+(The country has marred by violence in recent days. 近几天来，这个G家饱受暴力冲突的摧残。)
 (Campaigning for the mid-terms has been marred by politicians routinely treating each other as rogues, fools or traitors. 政客们照例都将对方当做无赖，白痴和骗子，破坏了中期选举/中期选举因为政客们照常)
 (The ceremony was marred however by a gunman as the inauguration was taking palce. 但是，就职仪式在进行时被一名持枪男子破坏。)
-Dutch n. 荷兰人 adj. 荷兰的
-crater n. 弹坑 crater火山口，lava熔岩，magma岩浆，volcano火山
-(Fill some crater in your soul.)
-lava n. 岩浆（地面上的）
-(Scientists use the term magma for molten rock that is underground and lava for molten rock that breaks through the Earth's surface.)
-drift v&n. 漂流
+44. Dutch n. 荷兰人 adj. 荷兰的
+45. crater n. 弹坑 crater火山口，lava熔岩，magma岩浆，volcano火山
+(Fill some crater in your soul. 填补你心底的一些裂缝？)
+46. lava n. 岩浆（地面上的）
+(Scientists use the term magma for molten rock that is underground and lava for molten rock that breaks through the Earth's surface. 科学家使用术语岩浆来表示地下的熔岩，而熔岩则表示突破地球表面的熔岩。)
+47. drift v&n. 漂流
 (I'm sorry, I got bored and drifted off. 抱歉，我觉得无聊，开小差了。)
 (Apple drift too far away from its roots. 苹果公司已经偏离它的初心了。)
-(A small inflatable drifting near the coast. 一个小的充气式正在漂流靠近海岸。)
-strike v&n. 罢工,袭击,打
+(A small inflatable boat drifting near the coast. 一个小的充气式船正在漂流靠近海岸。)
+48. strike v&n. 罢工,袭击,打
 (The clock strike eleven as she entered. 当她走进去的时候，大钟正好敲响了11点。)
 (That's Bartholomew's window up there where the moonshine strikes. 那被月光照着的就是巴索罗谬的窗户)
-pheromone n. <生化>信息素
+49. pheromone n. <生化>信息素 /'fɛrəmon/
 (By definition, pheromones are only used to communicate within the same species. 按定义来说，信息素只能用于同种生物间的交流。)
-settlement n. 解决,协议,居留地
-(President Trump is urging Israel to hold back on building Jewish settlements. 特朗普总统督促以色列暂停建筑犹太人定居点。)
+50. settlement n. 解决,协议,居留地
+(President Trump is urging Israel to hold back on building Jewish settlements. T朗普Z统督促以色列暂停建筑犹太人定居点。)
 (Reports said they came close to a settlement. 报道称他们快要达成和解。)
-stratum n. 地层,阶层
+51. stratum n. 地层,阶层
 (On the other hand, interests are not evenly shared by every stratum of society. 另一方面，在发达国家内部和发展中国家内部，社会各阶层的利益分享也不均衡。)
 (Through the open window we stared at the lower strata/复数/ of this southernmost ocean. 通过打开的玻璃，我们可以看到南冰洋的中下层。)
-Mediterranean n. 地中海
+52. Mediterranean n. 地中海 /ˌmɛdɪtəˈreniən/
 (It concluded that the Mediterranean people in the study enjoyed some significant health advantages. 研究得出结论，地中海人具有一定显著的健康优势。)
-fungus n. 真菌,真菌类植物 plural form: fungi
+53. fungus n. 真菌,真菌类植物 plural form: fungi
 (But is climate change affecting these fungi. 但气候变化是否会影响蘑菇的生存呢？)
-(That monolaurin kills fungus, bacteria, parasites and viruses. 月桂酸甘油酯可以杀死霉菌，细菌，寄生虫已经病毒)
-fuller n. 漂洗工, 满
+(That monolaurin kills fungus, bacteria, parasites and viruses. 月桂酸甘油酯可以杀死霉菌，细菌，寄生虫以及病毒)
+54. fuller n. 漂洗工, 满
 (And lacking any fuller explanation from the government, many questions remain. 由于政府缺乏更全面的解释，此事仍存在诸多问题)
 (As if waves had been fullers, this craft was bleached like the skeleton of a stranded walrus. 波涛仿佛是一些漂布匠，把那条船给漂白得想一直给海浪冲到岸上来的海象骨架)
-hydrogen n. 氢
+55. hydrogen n. 氢
 (Two part hydrogen, one part oxygen, you'll get water every time. 两部分氢元素加一部分氧元素，你就会得到水。)
-(This is because hydrogen fuel cells cost more. 这是因为氢燃料的价格更高。)
-basin n. 脸盆,盆地
+(This is because hydrogen fuel cells cost more. 这是因为氢燃料电池的价格更高。)
+56. basin n. 脸盆,盆地
 (He caught sight of himself in the mirror over the basin. 他从洗手盆上的镜子里看到了自己)
 (The southern hemisphere got hammered by impacts long ago, leaving a huge basin there. 很久以前，其南半球收到了撞击的冲击，留下了一个很大的盆地。)
-nitrogen n. 氮
+57. nitrogen n. 氮 /ˈnaɪtrədʒən/
 (Lightning strikes can convert some nitrogen into a bioavailable form. 雷电能将部分氮气专为一种可用的生物形式。)
-fuel n. 燃料 v. 加燃料
-ritual n. 仪式,典礼
-village n. 村庄
-interior adj. 内部的
-crust n. 外壳,硬壳,面包皮
-spot n. 地点,污点 v. 认出,玷污
-tropical adj. 热带的,炎热的
-nutrient n. 营养品 adj. 营养的
-pastoralist n. 田园诗的作者,牧民
-Cambrian n. 威尔斯人
-appeal n&v. 呼吁,上诉
-ceramic adj. 陶器的 n. 陶瓷制品
-moral adj. 道德(上)的,精神的
-lichen n. 青苔,苔藓
-bur n. 刺果
-coastal adj. 海岸的,沿海的
-trail n. 踪迹 v. 追踪
-tribe n. 部落,部族
-resemble v. 象,类似于
-(Well, children usually resemble their parents. 嗯孩子总是像父亲的.)
+58. fuel n. 燃料 v. 加燃料 gasoline（gas），fuel，petrol
+59. ritual n. 仪式,典礼
+(Do you have a morning beauty ritual? 你有起床后做早晨美容保养的日常习惯吗？)
+(Well, the ritual itself is relatively straightforward. 仪式本身是相对简单的。)
+60. village n. 村庄
+61. interior adj. 内部的
+62. crust n. 外壳,硬壳,面包皮
+63. spot n. 地点,污点 v. 认出,玷污
+64. tropical adj. 热带的,炎热的
+65. nutrient n. 营养品 adj. 营养的
+66. pastoralist n. 田园诗的作者,牧民
+67. Cambrian n. 威尔斯人
+68. appeal n&v. 呼吁,上诉
+(Israel has rejected international appeals for a ceasefire. 以色列拒绝了国际社会的停火呼吁。)
+69. ceramic adj. 陶器的 n. 陶瓷制品
+70. moral adj. 道德(上)的,精神的
+(Preschool children really don't get the moral of the story. 学龄前儿童真的不明白这个故事的寓意)
+71. lichen n. 青苔,苔藓
+72. bur n. 刺果
+73. coastal adj. 海岸的,沿海的
+74. trail n. 踪迹 v. 追踪
+75. tribe n. 部落,部族
+76. resemble v. 象,类似于
+(Well, children usually resemble their parents. 嗯，孩子总是像父亲的.)
 (They resemble each other in shape but not in color.)
-Philadelphia n. 费城(美国宾西法尼亚州东南部港市)
-paleolithic adj. 旧石器时代的
-crow n. 乌鸦 v. 啼叫
-ecologist n. 生态学者
-timberline n. 树带界线
-regard n. 尊敬 v. 看待,当作
-petroleum n. 石油
-dissolve v. 溶解,解散
-comet n. 彗星
-depict v. 描述,描写
-acorn n. 橡树果,橡子
-derive v. 获取,得自,起源
-obsidian n. [矿]黑曜石
-nestling n. 尚未离巢的小鸟,婴孩
-frontier n. 国境,边疆
-decorative adj. 装饰的
-parasite n. 寄生虫
-alder n. [植]桤木
-explicit adj. 明确的,清晰的
-molecule n. 分子
+77. Philadelphia n. 费城(美国宾西法尼亚州东南部港市)/ˌfilə'delfjə/
+78. paleolithic adj. 旧石器时代的
+79. crow n. 乌鸦 v. 啼叫
+70. ecologist n. 生态学者
+71. timberline n. 树带界线
+72. regard n. 尊敬 v. 看待,当作
+73. petroleum n. 石油
+74. dissolve v. 溶解,解散
+75. comet n. 彗星
+76. depict v. 描述,描写
+78. acorn n. 橡树果,橡子
+79. derive v. 获取,得自,起源
+80. obsidian n. [矿]黑曜石
+81. nestling n. 尚未离巢的小鸟,婴孩
+82. frontier n. 国境,边疆，开发地区边缘, 边远地区
+83. decorative adj. 装饰的
+84. parasite n. 寄生虫
+85. alder n. [植]桤木 [ˈɔːldər]
+86. explicit adj. 明确的,清晰的
+(She was quite explicit about why she left. 她对她为什么离去非常直言不讳)
+(It's an explicit statement. 这句话/陈述说的很明确。)
+87. molecule n. 分子
 (So it should render the molecule non-toxic at that point. 这样一来，应该可使分子脱离毒性。)
-pullman n. 卧车,普式火车, 豪华型列车车厢（无隔间有桌椅）。
+88. pullman n. 卧车,普式火车, 豪华型列车车厢（无隔间有桌椅）。
 (I want to change this ticket to Pullman ticket. 这张票我要换成卧铺票。)
 (A pull man is a sleeping car and a coach is a sitting car. 卧铺是可睡觉的车厢，普通车是有作为的车厢。)
-mechanism n. 机械装置
-desertification n. 荒漠化,沙漠化
-expedition n. 远征,探险队
-conduct n. 行为 v. 引导,管理
-ogallala n. 奥加拉拉(美国地名)
-sophisticate adj. 诡辩的,久经世故的
-debris n. 碎片,残骸
-perspective n. 视角,观点,远景
-cetacean n. 鲸类动物
-destructive adj. 破坏(性)的
-plankton n. 浮游生物
+89. mechanism n. 机械装置
+90. desertification n. 荒漠化,沙漠化
+91. expedition n. 远征,探险队
+92. conduct n. 行为 v. 引导,管理
+93. ogallala n. 奥加拉拉(美国地名)
+94. sophisticate adj. 诡辩的,久经世故的
+95. debris n. 碎片,残骸
+96. perspective n. 视角,观点,远景
+97. cetacean n. 鲸类动物 /sɪ'teʃən/
+98. destructive adj. 破坏(性)的
+99. plankton n. 浮游生物
 (And the plankton, too, are flourishing thanks to global warming. 而且，由于全球变暖也让这些浮游生物大量繁殖。)
 (Recent plankton blooms suggest a warmer Arctic will provide a boost to fisheries there, too. 而浮游生物的大量繁殖，预示着一个较温暖的北极也将推动此处的渔业的发展。)
-neanderthal adv. 穴居人的
-precede v. 领先(于),在之前,先于
-nile n. 尼罗河
+100. neanderthal adv. 穴居人的 [niˈændərtɑːl]
+101. precede v. 领先(于),在之前,先于
+(That's 15% stronger than in the preceding six months. 这相对于前六个月有15的增长。)
+102. nile n. 尼罗河
 (The nile belongs to all and yet to none. 尼罗河属于大家，却又不属于任何人。)
-asteroid n. 小行星
+103. asteroid n. 小行星
 (Now NASA is planning to reboot WISE to find more asteroids. 现在NASA准备重启智慧号，让其发现更多的小行星。)
 (Most asteroids dwell between the orbits of Mars and Jupiter. 大部分小行星都位于火星和木星之间。)
-pottery n. 陶器
-projection n. 发射
-pastoralism n. 田园主义,牧歌体
-geologic adj. 地质的
+104. pottery n. 陶器
+(I can't believe you took a pottery class. 不敢相信你居然去上了陶艺课。)
+105. projection n. 发射；投影；突出物；对未来形式的估计。
+(Inception: I am a projection of your subconscious. 盗梦空间：我是你潜意识的投影之一。)
+(clear digital projection. 高清的数字投影)
+(So he used the word projection which means something that sticks out from the main surface. 他用“突出”这个词，含义是某物伸出某个平面之外。)
+106. pastoralism n. 田园主义,牧歌体
+(It's better to look for other livelihoods rather than pastoralism. 最好放弃牧业，转向其他生计。)
+107. geologic adj. 地质的，地质学上的
+(In geologic time, a million years is recent history. 地质学角度来看，一百万年属于近代史。)
+(Ancient ruins and artifacts only take us back a few thousand years, geologic records only 2 million.
+古代遗迹和手工制品只能带我们回到几千年前，地址记录也只能回到两百万年前。)
 pleistocene n&a. [地]更新世(的)(一段时期)
-Netherlands n. 荷兰[国家]
+(The epoch in the earth's history that started about a million years ago. 地质学上的一段时期)
+Netherlands n. 荷兰[国家] [ˈnɛðərləndz]
 pollutant n. 污染物质
+(Some paints incorporate tiny silver particles, which capture atmospheric pollutants. 有些涂料中掺入了银粒子，他们能捕获大气污染物)
+(But closer to Earth's surface ozone is a common pollutant.)
 portion n. 一部分
 copper n. 铜,警察
 ridge n. 背脊,山脊
@@ -848,4 +868,340 @@ plateau n. 高原
 correspondent n. 通讯员，记者
 (From Tokyo, our correspondent R-W-H reports. 一下是本台记者R-W-H在东京的报道。)
 ramification n. （不好的）后果，结果 a complex or unwelcome consequence of an action or event.
-(She also warns that we haven't experienced the full impact or ramifications of the pandemic. 她还警告说，我们还没有经历这次疫情的完全影响或后果。)
+(She also warns that we haven't experienced the full impact or ramifications of the pandemic. 她还警告说，我们还没有经历这次疫情的完全影响或后果。)gibraltar n. 直布罗陀(海峡)
+caravan n. 旅行队,商队, 大篷车
+microorganism n. 微生物
+postal adj. 邮政的,邮局的
+predominantly adv. 主要地, 占优势地
+prestige n. 声望, 威望
+mound n. 土墩，沙土堆
+sect n. 宗派, 教派
+vaudeville n. 歌舞杂耍
+carnivore n. 食肉动物
+plaster n. 石膏 vt敷以膏药
+theorize v. 建立理论, 理论化
+tundra n. 苔原, 冻土地带
+displace v. 转移, 取代
+gravitational adj. 重力的, 引力作用的
+cuneiform a&n. 楔形的,楔形文字(的)
+gamma n. 100万分之1克, 微克
+nebula n. 星云
+parasitic adj. 寄生的, 由寄生虫引起的
+lithosphere n. [地]岩石圈
+sulfate n. 硫酸盐
+steamship n. 汽船, 轮船
+lithospheric adj. 岩石圈的; 陆界的
+meager n. 兆
+nickel n. 镍, 镍币
+Georgia n. (美)乔治亚州
+overwhelm v. 打击, 压倒, 打败
+prolific adj. 多产的；多子嗣的
+coral n. 珊瑚(虫)
+barrel n. 桶
+reef n. 礁,暗礁
+millimeter n. 毫米
+molecular adj. 分子的
+exterior adj. 外部的 n外部
+antiquity n. 古代
+adobe n. 泥砖，土坯
+utilitarian adj. 功利的 n功利主义者
+stunt n. 特技；噱头 v阻碍正常成长
+ultraviolet adj. 紫外线的 n紫外线辐射
+transitional adj. 变迁的, 过渡期的
+subsurface adj. 地下的, 表面下的n地表下岩石
+semiskilled adj. 半熟练的
+mackerel n. 鲭
+scrub n. 灌木丛
+mutoscope n. (早期的)电影放映机
+stalk n. 茎，梗 v跟踪,高视阔步地走
+ethnic adj. 人种的, 种族的
+resilience n. 弹性，弹力
+neon n. [化]氖
+bladder n. 膀胱, 气泡
+cord n. 绳索, 束缚
+respiration n. 呼吸, 呼吸作用
+speculative adj. 推测的, 思索的,投机的
+impressionist n. 印象主义者
+silica n. [化]硅石
+tow v. 拖, 曳
+rudimentary adj. 基本的,初步的,未充分发展的
+otter n. 水獭, 水獭皮
+deciduous adj. 每年落叶的, 非永久性的
+tethys n. 古地中海,  特提斯海
+decipher v. 译解
+broadway n& a. 百老汇大街(的)
+pamphlet n. 小册子
+dive v. 潜水, 跳水
+swarm n. 蜂群, 一大群
+fuse n. 保险丝 v熔合
+commuter n. 通勤者, 每日往返上班者
+alloy n. 合金
+tidal adj. 潮汐的, 定时涨落的
+eusocial adj. (昆虫)完全社会性的
+oliver n. 脚踏铁槌
+ideology n. 意识形态
+solitary adj. 孤独的
+sedentary adj. 久坐的,固定不动的
+eohippus n. <古生>始祖马
+conductor n. 领导者, 经理
+nutritionally adv. 在营养上, 营养方面
+worm n. 虫，蠕虫
+porosity n. 多孔性
+windmill n. 风车
+dandelion n. 蒲公英
+homogeneous adj. 同质的,相似的
+substantially adv. 大体上；本质上
+devoid adj. 全无的, 缺乏的
+manifest v. 显示，表明，证明
+pinpoint v. 确定,精确地定位 adj. 十分精确的
+mosaic n. 镶嵌细工，马赛克
+preschooler n. (美)学龄前儿童
+speculate v. 推测, 思索, 做投机买卖
+exotic adj. 外来的
+practitioner n. 从业者, 开业者
+photosynthesis n. 光合作用
+diffuse v. 散播,传播
+arc n. 弧, 弓形
+flagellum n. [动]鞭毛
+phytoremediation n. 植物除污, 植物治理法
+mustard n. 芥菜, 芥末
+chlorosis n. 萎黄病, 变色病
+piecework n. 计件工作
+intimate adj. 亲密的,私人的
+Polynesian n. 波利尼西亚人, 波利尼西亚语
+monument n. 纪念碑
+crevice n. 裂缝
+scavenger n. 清道夫,食腐动物
+patron n. 资助人，赞助人
+legume n. 豆类, 豆荚
+stave n. 桶材；窄板  v敲破
+magnetosphere n. 磁气圈
+chisel n. 凿子 v砍凿
+stroke n. 划桨；击
+enforce v. 实施, 执行,加强
+tannin n. [化]丹宁酸
+stony adj. 多石的, 无情的
+steep adj. 陡峭的,急剧的
+cajun n. 移居美国路易斯安纳州的法人后裔
+rod n. 杆, 棒
+intrinsically adv. 内在地, 固有地
+glow v. 发光, 发热
+gratify v. 使满足
+crane n. 起重机
+ledge n. 岩架,岩石突出部
+erect v. 建造,竖立,使直立
+maritime adj. 海上的, 海事的
+inferior adj. 下等的, 下级的
+rhetorical adj. 带修辞色彩的
+inferential adj. 推理的, 推论的
+crown n. 王冠，冕
+planetarium n. 天文馆
+parrot n. 鹦鹉
+strand v. 使搁浅
+conductance n. 电导, 导率
+endocrine n. 内分泌
+hemlock n. 铁杉,毒芹
+discern v. 察觉出,识别
+shuttle n. 航天飞机；梭子 v穿梭来回(运送)
+commensalism n. 共栖
+parasitism n. 寄生状态, 寄生病
+correspondence n. 通信, 信件, 相符
+botany n. 植物学
+hereditary adj. 世袭的,遗传的
+strut n. 高视阔步 v. 昂首阔步地走
+prowl v. 巡游
+ethic n. 道德规范
+individualistic adj. 个人主义的
+arsenic n. [化]砷, 砒霜
+slate n. 板岩,石板
+reptilian n. 爬行类动物
+spruce n. 云杉
+diffusion n. 传播，散布
+stiffen v. 弄硬；加强
+fetus n. 胎儿
+pine n. 松(树) vi消瘦
+informant n. 通知者, 告密者
+cedar n. 雪松
+slab n. 厚板，平板
+moose n. [动] 驼鹿
+hexagonal adj. 六角形的,六边的
+scout n. 侦察员 vi侦察
+krypton n. [化] 氪
+diminish v. (使)减少, (使)变小
+residual adj. 剩余的, 残留的
+chlorophyll n. [生化]叶绿素
+coil v. 盘绕, 卷
+homestead n. 家宅，宅基
+incubate v. 孵卵
+hectare n. 公顷（等于1万平方米）
+peruvian n&a. 秘鲁人(的)
+osprey n. 白色的羽毛, 鱼鹰
+affection n. 影响, 感情
+pillar n. 柱子, 栋梁
+huckleberry n. 越橘类
+elk n. 麋鹿
+anthocyanin n. [植]花青素, [化]花色醣苔
+watercraft n. 船只
+gut n. 内脏
+pastoral adj. 田园生活的，宁静的
+conform v. 使一致, 遵从
+detractor n. 诽谤者
+sailfish n. 旗鱼
+marlin n. 枪鱼
+dull adj. 乏味的；阴沉的
+buoyant adj. 有浮力的, 轻快的
+kinship n. 血族关系
+domestication n. 驯养, 教化
+replenish v. 补充
+tutelage n. 监护
+freudian n. n&a,佛洛伊德学说(的)
+blubber n. 鲸脂,哭号v哭号
+vigorously adv. 精力旺盛地；健壮地
+tine n. (尖)齿, 叉
+precipitate v. 促成；使沉淀 n沉淀物
+lime n. 酸橙,石灰
+bulk n. (大)块,主体 vt使更大
+patronage n. 赞助；光顾(买东西)
+shaft n. 柄，杆
+crumple v. (使)皱，扭曲；(使)崩溃
+chapbook n. 畅销故事书
+arcade n. 拱廊
+unaided adj. 未受协助的, 独立的
+unaided adj. 未受协助的, 独立的
+perplex v. 使困惑，使费解
+concave adj. 凹的 n凹(面)
+beak n. 鸟嘴, 喙
+descent n. 下降,下倾
+yard n. 院子，场地
+abstraction n. 提取
+eel n. 鳗鱼
+camouflage v&n. 伪装
+postage n. 邮费
+prairie n. 大草原,牧场,
+cylindrical adj. 圆柱形的
+hibernate v. 冬眠
+auxiliary adj. 辅助的, 补助的
+equilibrium n. 平衡
+exocrine adj. [医]外分泌的
+accommodate v. 容纳,提供(住处),适应
+printmaking n. 版画复制(术)
+populous adj. 人口稠密的
+gasoline n. 汽油
+igloo n. 圆顶建筑
+foul adj. 邪恶的,下流的 n犯规 v弄脏
+recipient n. 接受者，接收者
+harness n. 马具 v. 治理，束以马具
+adoption n. 采用, 收养
+vie v. 竞争
+carol n. 颂歌, 欢乐的歌
+imperial adj. 帝国的，帝王的
+lag v. 落后 n滞后
+lumiere n. 彩色照相术
+accompaniment n. 陪伴物, 伴奏
+thresh v. 打谷, 脱粒, 反复得做
+mule n. 骡子,十分固执的人
+prone adj. 易于…的，很可能…的
+formulate v. 构想出，规划
+krill n. [动]磷虾(单复同)
+assess v. 估定,评定
+drapery n. 布业，布匹
+radiocarbon n. 放射性炭
+afield adv. 远离着(家乡), 去远处
+deglaciation n. 冰消作用
+glen n. 峡谷, 溪谷
+mainstay n. 支柱;骨干
+wholly adv. 整个,全部
+rhinoceros n. [动]犀牛
+plumb v. （用铅垂）测量,探测
+trout n. 鲑鱼
+permian n&a. [地]二叠纪(的)
+superintendent n. 主管人，监管人
+foraminifera n. 有孔虫类
+anecdotal adj. 轶事的,趣闻的
+sinkhole n. 污水池
+neptune n. [天]海王星
+cyanide n. [化]氰化物
+revolve v. 旋转
+purple adj. 紫色的
+timer n. 计时员, 定时器
+supplant v. 排挤，取代
+harpsichord n. 大键琴
+revitalize v. 新生
+heterogeneous adj. 异种的, 异质的
+protrude v. 突出
+recrystallize v. ( 使) 再结晶
+warp v. 弯曲,歪曲
+reed n. 芦苇
+blowhole n. 喷水孔, 通风孔
+antenna n. 天线
+magenta n&a. 红紫色(的)
+valse v. 轻轻地走 n. 华尔兹
+charcoal n. 木炭
+botanist n. 植物学家
+dictate v. 口授；命令
+incursion n. 侵犯，入侵
+toll n. 过路(桥)费
+subside v. 下沉,平静
+inventory n. 详细目录, 存货(清单)
+tenement n. 公寓
+daguerreotype n. (早期)银板照相
+staple v. 订 a主要的
+disrupt v. 使中断，扰乱
+rend v. 撕裂，猛拉
+maser n. 微波激射器
+spinal adj. 脊椎骨 n. 脊髓麻醉
+clockwise adv. ／ a顺时针方向地(的)
+generic adj. 种类的，类属的
+resin n. 树脂 vt涂树脂于
+incredible adj. 不可信的；不可思议的
+smother v. 窒息
+stain n. 污点v染污
+cavern n. 洞穴，大山洞
+minuscule n&a. 草写小字(的)
+dormant adj. 冬眠的
+intrinsic adj. 内在的, 固有的
+clarify v. 澄清, 阐明
+extermination n. 消灭, 根绝
+suburbanization n. 市郊化
+succulent adj. 多汁的
+micron n. 微米,百万分之一米
+publicize v. 宣传
+spout v. 喷出
+sensory adj. 知觉的, 感觉的
+fodder n. 饲料, 草料
+substantiated vt. 证实, 实体化
+cramp n. 痉挛 v. 限制，束缚
+perishable adj. 容易腐烂的
+retract v. 缩回, 撤销
+retrieval n. 取回，补偿
+savannah n. (南美)大草原
+perry n. 梨子酒
+liter n. 公升
+radiant adj. 发光的, 辐射的
+sociobiology n. 生物社会学
+ideological adj. 意识形态的
+solidarity n. 团结
+providence n. 深谋远虑，远见
+bluefin n. 金枪鱼
+catharsis n. 宣泄，净化
+chloride n. [化]氯化物
+archaic adj. 古代的, 陈旧的
+aristocrat n. 贵族
+spine n. 脊柱
+lade v. 装载,装货
+engulf v. 吞没
+frigid adj. 寒冷的
+grandiose adj. 宏伟的,堂皇的
+despondent adj. 失望的, 沮丧的
+symbolism n. 象征主义
+aerodynamic adj. 空气动力学的
+alp n. 高山
+affinity n. 密切关系,类同
+disprove v. 反驳,证明为误
+tram n. 有轨电车
+stripe n. 条纹
+intercity adj. 城市间的
+erratic adj. 古怪的，飘忽不定的
+overly adv. 过度地, 极度地
+uplift v. 提高；振奋(精神)
+whimsical adj. 异想天开的，反复无常的，闹着玩的 主播说成人也可以做一个万圣节南瓜灯，这是就娱乐，not have to be so serious, just for fun. It's whimsical.
