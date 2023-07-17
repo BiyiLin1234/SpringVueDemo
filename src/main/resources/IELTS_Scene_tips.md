@@ -1,0 +1,161 @@
+### 历史文明
+- heirloom [ˈerluːm]
+- feudal [ˈfjuːdl]
+- mythology [mɪˈθɑːlədʒi]
+- folklore [ˈfoʊklɔːr]
+- taboo [təˈbuː]
+- orthodox [ˈɔːrθədɑːks]
+- sundial [ˈsʌndaɪəl]
+- aboriginal [ˌæbəˈrɪdʒənl]
+- Crusade [kruːˈseɪd]
+- lambskin /'læm,skɪn/
+  - types of writing systems
+      - pictograph
+      - hieroglyph:/ˈhaɪərəɡlɪf/
+      - phonogram:/'fonə,græm/
+      - >As nouns the difference between pictogram and hieroglyphic is that 
+      pictogram is a picture that represents a word or an idea by illustration while hieroglyphic is (chiefly|in the plural) a writing system of ancient egypt, minoans, maya and other civilizations, using pictorial symbols to represent individual sounds as a rebus.
+- List of Historical Time Periods / historical eras
+    - Neolithic
+    - Bronze Age
+    - medieval
+    - Victorian
+- mausoleum /ˌmɔsəˈliəm/
+- cemetery /ˈseməteri/
+- chronicler /'krɔniklə/
+- ominous /ˈɑːmɪnəs/
+- ethnicity /ɛθ'nɪsəti/
+---
+- 翻译
+- 在一个家族中传承了几代人的物品。对应哪个单词？
+- 这个钟是一个家族传家宝
+- 我想我知道那枚戒指，那是他祖母的戒指。这是一件传家宝。
+- 封建贵族的
+- 今天有些地主仍以近乎封建的方式对待佃dian农
+- 士绅们在一个近乎封建的国家里互相接待，并到对方的家里旅行。
+- 封建贵族们强迫国王在协议上签字
+- 希腊神话
+- 神话学研究者
+- 牛仔是美国民俗中的重要部分
+- 今天接下来带来的故事是地理，历史和民俗的交织的故事。
+- 你们的社会里，婚前性行为犯忌吗
+- 年龄是一个非常忌讳的问题，尤其对女士来说
+- 那个名字是禁忌，罗恩吼叫着，在帐篷外大声地跺着脚。
+- 于是他把（狗食）定量减到了常规以下，而且还要够多跑路
+- timekeeping device, which indicates the time of day by the position of the shadow of some object exposed to the sun's rays.
+- 当时钟和手表，甚至日晷都是未发明的，所以这些刻度都是以燃烧等长蜡烛为标志的。、
+- 公平对待少数民族的斗争
+- 它是否应该在世界范围内发起额外的一场反对气温上升的运动
+- 1974年，秦始皇陵被发现并挖掘出土。
+- 有婴儿、20多岁的人死亡，各种种族都有
+- 哈特岛可能是这个流行病受害者的最大墓地。
+- 这是德沃尔夫家族墓地。
+- 乌云看起来有点不祥。
+- 它们听起来不祥，但实际上，它们一点也不坏/糟糕。
+- 这座城市最著名且罕有匹敌的记录者当属查尔斯-狄更斯
+
+### 生物科学
+- mutation /mju'teʃən/
+- transgenic /trænsˈdʒɛnɪk/
+- viability /ˌvaiə'biliti/ 
+- descendant
+  offspring
+- reptile /'rɛptaɪl/
+- algae /ˈælˌdʒi/
+- grasshopper /ˈɡræsˌhɑpɚ/
+- cricket /ˈkrɪkɪt/
+- hive /haɪv/
+- log /lɔːɡ/
+- plant-eating
+- amino/'æmɪno/ acids/ˈæsɪd/
+- enzyme /ˈenzaɪm
+- botany /ˈbɑːtəni/
+- vegetation /ˌvedʒəˈteɪʃn/
+- flora /ˈflɔrə/
+- fauna /'fɔnə/
+- amphibian /æm'fɪbɪən/
+- primate /'praɪmet/
+- embryo /'ɛmbrɪo/
+- pupation /pju:'peiʃn/
+- somatic /soˈmætɪk/
+- limb /lɪm/
+- artery /ˈɑːrtəri/
+- gland /ɡlænd/
+- pancreas /ˈpæŋkriəs/
+- hormone /ˈhɔːrmoʊn/
+- cholesterol /kəˈlestərɔːl/
+- biological /ˌbaɪəˈlɑːdʒɪkl/
+- neuron /'nʊrɑn/
+- carnivorous /kɑːrˈnɪvərəs/
+- susceptible /səˈseptəbl/
+- retina /'rɛtənə/
+- iris /'aɪrɪs/ 
+- sperm /spɝm/
+- biological /ˌbaɪəˈlɑːdʒɪkl/ activity
+- pharmacology /ˌfɑːrməˈkɑːlədʒi/
+- microbe /ˈmaɪkroʊb/
+- aerobic /eˈroʊbɪk/
+- respiration /ˌrɛspə'reʃən/
+- aborigines /ˌæbəˈrɪdʒəniz/
+- feral /ˈferəl/
+- herbivorous /hɜːˈbɪvərəs/
+---
+- mutation /mju'teʃən/
+- transgenic /trænsˈdʒɛnɪk/
+- viability /ˌvaiə'biliti/
+- descendant
+- offspring
+- reptile /'rɛptaɪl/
+- algae /ˈælˌdʒi/
+- grasshopper /ˈɡræsˌhɑpɚ/
+- cricket /ˈkrɪkɪt/
+- hive /haɪv/
+- log /lɔːɡ/
+- plant-eating
+- amino/'æmɪno/ acids/ˈæsɪd/
+- enzyme /ˈenzaɪm/
+- botany /ˈbɑːtəni/
+- vegetation /ˌvedʒəˈteɪʃn/
+- flora /ˈflɔrə/
+- fauna /'fɔnə/
+- amphibian /æm'fɪbɪən/
+
+
+
+- primate /'praɪmet/
+- embryo /'ɛmbrɪo/
+- pupation /pju:'peiʃn/
+- somatic /soˈmætɪk/
+- limb /lɪm/
+- artery /ˈɑːrtəri/
+- gland /ɡlænd/
+- pancreas /ˈpæŋkriəs/
+- hormone /ˈhɔːrmoʊn/
+- cholesterol /kəˈlestərɔːl/
+- biological /ˌbaɪəˈlɑːdʒɪkl/ clock
+- neuron /'nʊrɑn/
+- carnivorous /kɑːrˈnɪvərəs/
+- susceptible /səˈseptəbl/
+- retina /'rɛtənə/
+- iris /'aɪrɪs/
+- sperm /spɝm/
+- biological /ˌbaɪəˈlɑːdʒɪkl/ activity
+- pharmacology /ˌfɑːrməˈkɑːlədʒi/
+- microbe /ˈmaɪkroʊb/
+- aerobic /eˈroʊbɪk/
+- respiration /ˌrɛspə'reʃən/
+- aborigines /ˌæbəˈrɪdʒəniz/
+- feral /ˈferəl/
+- herbivorous /hɜːˈbɪvərəs/
+
+### 自然环境，自然资源
+- timber /ˈtɪmbər/
+- pertoleum /pəˈtroʊliəm/
+- gasoline /ˈɡæsəliːn/
+- solar /ˈsoʊlər/
+- resource/ˈriːsɔːrs/ depletion/dɪ'pliʃən/
+- barren /ˈbærən/
+- fertile /ˈfɜːrtl/
+- luxuriant /lʌɡ'ʒʊrɪənt/
+- desertification /dɪ,zɝtɪfɪ'keʃən/ desert /ˈdezərt/
+- tillable /'tiləbl/

@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
 
-public class KVTools {
+public class KVTools  {
     private static final String kvPath = "src/main/resources/notes/store_map.txt";
     private static KVTools kvTools;
     private static final String splitter = "\\|";

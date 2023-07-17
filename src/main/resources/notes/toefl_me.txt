@@ -1,8 +1,8 @@
 1. infant n. 婴儿
 (child during the first few years of life: infants, older children and adults.)
 (infant prodigy(天才 神童): unusually talented child that shows signs of genius from an early age, an exceptionally talented child)
-(In human terms, they are still infants.）
-(Mothers were in some cases reportedly forced to watch the infanticide of their newborn infants.)
+(In human terms, they are still infants.)
+(Mothers were inÏ some cases reportedly forced to watch the infanticide of their newborn infants.)
 2. agricultural adj. 农业的
 (science or practice of cultivating the land and rearing animals.)
 (But people have diverted lots of that water for agriculture. 但是人们把大量的水引走用于农业灌溉.)
@@ -128,7 +128,7 @@
 42. egyptian n&a. 埃及人(的)
 43. mar n. 污点,瑕疵 v. 破坏 MAR（March）三月
 (The country has marred by violence in recent days. 近几天来，这个G家饱受暴力冲突的摧残。)
-(Campaigning for the mid-terms has been marred by politicians routinely treating each other as rogues, fools or traitors. 政客们照例都将对方当做无赖，白痴和骗子，破坏了中期选举/中期选举因为政客们照常)
+(Campaigning for the midterms has been marred by politicians routinely treating each other as rogues, fools or traitors. 政客们照例都将对方当做无赖，白痴和骗子，破坏了中期选举/中期选举因为政客们照常)
 (The ceremony was marred however by a gunman as the inauguration was taking palce. 但是，就职仪式在进行时被一名持枪男子破坏。)
 44. Dutch n. 荷兰人 adj. 荷兰的
 45. crater n. 弹坑 crater火山口，lava熔岩，magma岩浆，volcano火山
@@ -171,10 +171,18 @@
 (Do you have a morning beauty ritual? 你有起床后做早晨美容保养的日常习惯吗？)
 (Well, the ritual itself is relatively straightforward. 仪式本身是相对简单的。)
 60. village n. 村庄
+(The rumor quickly spread through the village. 谣言很快在村庄里传开了。)
 61. interior adj. 内部的
+(Suddenly a noise from the ship's interior became audible. 突然，船内传来一声声响)
 62. crust n. 外壳,硬壳,面包皮
+(continental crust 大陆地壳)
+(upper crust 上流社会)
 63. spot n. 地点,污点 v. 认出,玷污
+(spot on: 切题，正确 exactly correct. I would say your first two sections are spot on. 我觉得你的前两个部分非常切题)
+(Morty you can park in a handicap spot. 莫蒂你可以停在残障专用车位上。)
+(That shouldn't be hard to spot. 那应该不难辨认。)
 64. tropical adj. 热带的,炎热的
+
 65. nutrient n. 营养品 adj. 营养的
 66. pastoralist n. 田园诗的作者,牧民
 67. Cambrian n. 威尔斯人
@@ -1204,4 +1212,198 @@ intercity adj. 城市间的
 erratic adj. 古怪的，飘忽不定的
 overly adv. 过度地, 极度地
 uplift v. 提高；振奋(精神)
-whimsical adj. 异想天开的，反复无常的，闹着玩的 主播说成人也可以做一个万圣节南瓜灯，这是就娱乐，not have to be so serious, just for fun. It's whimsical.
+whimsical adj. 异想天开的，反复无常的，闹着玩的 主播说成人也可以做一个万圣节南瓜灯，这是就娱乐，not have to be so serious, just for fun. It's whimsical.melody n. 旋律，曲调
+typify v. 代表
+astronomical adj. 天文学的, 巨大的
+startle v. 震惊
+peregrine n. 游隼 a外来的,移住的
+optimal adj. 最理想的
+tapestry n. 挂毯
+capability n. 能力，才能
+landmass n. 大陆
+ornamentation n. 装饰
+glassmaker n. 玻璃工人
+submerge v. 浸没，淹没
+terminology n. 术语(学)
+ubiquitous  adj. 到处存在的
+demise  n. 死亡,让位
+conspicuous  adj. 显著的, 显眼的
+cottage  n. 村舍,小别墅
+fairground  n. 游乐场, 集市
+maple  n. 枫树
+contraction  n. 收缩
+granular  adj. 由小粒而成的,粒状的
+preindustrial  adj. 未工业化的, 工业化前的
+thaw  n. 融化,解冻
+quarry  n. 采石场 v. 挖出
+ethology  n. 动物行动学, 人种学
+amendment  n. 改善, 改正
+formidable  adj. 可怕的；难以克服的
+forager  n. 强征(粮食)者
+impend  v. 迫近，逼近
+translucent  adj. 半透明的
+hillside  n. 山腰
+caste  n. 印度的世袭阶级
+gosling  n. 小鹅，年轻无知的人
+rattle  v. 嘎嘎作响n咯咯声;吵闹声
+residence  n. 居住, 住处
+antecedent  adj. 先行的 n. 祖先
+nystatin  n. [微]制霉菌素
+prodigious  adj. 巨大的, 惊人的
+mural  adj. 墙壁的  n壁画
+fountain  n. 喷泉
+sprawl  v. 伸开
+petal  n. 花瓣
+proportionately  adv. 相称地, 成比例地
+charter  v. 租 n宪章
+hypha  n. [植]菌丝
+fatten  v. 养肥；使肥沃
+pram  n. 婴儿车
+Sanskrit  n& a. 梵语(的)
+sideways  a&ad. 旁的, 横向的
+arduous  adj. 费力的, 辛勤的
+boulder  n. 大石头
+dilute  v. 稀释，冲淡
+demographic  adj. 人口统计学的
+duct  n. 管道, 导管 vt. 用导管输送
+empirical  adj. 经验主义的
+midair  n. 半空中
+crocodile  n. 鳄鱼, 鳄鱼皮
+calve  v. 生小牛, (使)冰山崩解
+integration  n. 综合
+olfactory  adj. 嗅觉的
+prerequisite  n. 先决条件
+eclipse  n. (日、月)食 vt形成(日、月)食
+refute  v. 驳斥，驳倒
+updraft  n. 上升气流
+deliberation  n. 仔细考虑；商量
+flagpole  n. 旗杆
+invoke  v. 恳求
+lug  v. (用力)拖拉
+twain  n. 两, 双, 二
+pathogen  n. [微生物]病菌, 病原体
+memorable  adj. 难忘的,重大的
+auditory  adj. 耳的, 听觉的
+avant  adj. 先锋的,激进的
+tertiary  adj. 第三的, 第三位的
+Inuit  n. 因纽特人,  因纽特语
+alga  n. 藻类,海藻
+ingenious  adj. 设计独特的，巧妙的
+imposition  n. 强迫接受
+caribou  n. 北美产驯鹿(=Rangifer)
+aural  adj. 听觉的
+cenotes  n. 天然井
+mesquite  n. 豆科灌木
+seedling  n. 幼苗
+constrict  v. 压缩
+electromagnetic  adj. 电磁的
+locale  n. 现场, 场所
+rodeo  n. 马术竞技表演会, 将牛、马驱集在一起
+tribute  n. 颂词，称赞
+mussel  n. [动]贻贝, 蚌类
+cyan  n. 蓝绿色, 青色
+squat  v. 蹲(下)
+cortex  n. 外皮, （大脑）皮层
+tally  n. 记分  vi符合
+pacifier  n. 调停者，和解人
+quantifiable  adj. 可以计量的, 可量化的
+temper  n. 脾气,韧度 vt调和
+pinniped  adj. 鳍足类的
+companionship  n. 友谊
+archaeocyte  n. 原始(生殖)细胞
+incidental  adj. 偶然的；附带的
+conjunction  n. 联合, 关联
+ornate  adj. 华丽的, 装饰的
+clump  n. (树，草)丛 v. 使成一丛
+brine  n. 盐水
+compositional  adj. 合成的,组成的
+ideologically  adv. 意识形态上地, 思想上地
+sewage  n. 污水, 污物
+municipal  adj. 市政的
+refreeze  vt. 再结冰, 重新冻结
+hydrologic  adj. 水文的
+dietary  adj. 饮食的 n. 规定的食物
+hydropower  n. 水力发出的电力
+granule  n. 小粒，微粒
+recreational  adj. 娱乐的, 消遣的
+circumvent  v. 绕行,设法避开
+achondrite  n. 不含球粒陨石
+flutter  v. 振翼；飘动
+multiplicity  n. 多样性
+figuratively  adv. 比喻地
+undermine  v. 破坏
+greener  n. 生手
+entrepreneurial  adj. 企业家的,  企业性质的
+foliage  n. 树叶,植物
+vice  n. 缺点, 恶习
+bushman  n. 丛林居民
+marshy  adj. 沼泽般的,湿软的
+manifestation  n. 显示, 表现
+porcupine  n. [动]豪猪
+barge  n. 驳船 vi猛撞
+percussion  n. 碰撞, 打击乐器
+crisscross  v. 交叉, 来回移动 n. 十字形
+plausible  adj. 似真实合理的
+rift  n. 裂口 v. 裂开
+radiator  n. 暖气片，散热器
+myriad  adj. 无数的 n无数
+clavichord  n. 翼琴(钢琴的前身)
+trilobite  n. [古生]三叶虫
+converter  n. 转炉
+sierra  n. [地]齿状山脊, [鱼]马鲛
+storefront  n. 店头, 店面
+makeshift  adj. 临时的 n. 临时替代物
+makeshift  adj. 临时的 n. 临时替代物
+plight  n. 困境
+cactus  n. [植]仙人掌
+reap  v. 收割, 收获
+improvise  v. 即兴创作
+showman  n. 戏剧制作人, 玩杂耍的
+immeasurably  adv. 无法计量地, 无限地
+perpetuate  v. 使永存, 使不朽
+bask  v. 晒太阳
+prairies  n. 大草原
+makeshift  adj. 临时的 n. 临时替代物
+plight  n. 困境
+cactus  n. [植]仙人掌
+reap  v. 收割, 收获
+improvise  v. 即兴创作
+showman  n. 戏剧制作人, 玩杂耍的
+perpetuate  v. 使永存, 使不朽
+bask  v. 晒太阳
+prairies  n. 大草原
+bovine  adj. (似)牛的，迟钝的
+icicle  n. 冰柱
+funnel  n. 漏斗,烟囱
+fastidious  adj. 过分讲究的, 挑剔的
+overshadow  v. 遮蔽, 使失色
+hare  n. 野兔
+inhospitable  adj. 不好客的,不适于居住的
+pigmentation  n. 染色
+quincy  n. 昆西(美国伊利诺斯州西部一城市)
+rumen  n. 瘤胃(反刍动物的第一胃)
+aristocracy  n. 贵族（政治）
+impair  v. 损害,削弱
+broadleaf  n. 阔叶烟草,阔叶树
+pierce  v. 刺穿
+bluish  adj. 带蓝色的
+autobiographical  adj. 自传的
+obsession  n. 迷住, 困扰
+scurry  v. 疾行
+brant  n. 黑雁
+megawatt  n. 兆瓦特
+cellar  n. 地窖, 地下室
+arboreal  adj. 树木的
+multicellular  adj. 多细胞的
+slop  v. 溢出, 溅溢
+limner  n. 素描者
+elective  adj. 选举的,随意选择的
+husbandry  n. 管理
+fortification  n. 防御工事
+vascular  adj. 血管的,  脉管的
+sulfuric  adj. [化] 硫磺的,含硫的
+epitome  n. 摘要
+scrap  n. 碎片 v. 废弃
+mist  n. 薄雾
+propel  v. 推进, 驱使
+portrayal  n. 描画, 描写
